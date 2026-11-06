@@ -1,0 +1,5 @@
+pyspark>=3.5
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+gspread>=5.0   # Notebook 1 only: reads the classification review sample from Google Sheets

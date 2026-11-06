@@ -1,0 +1,13 @@
+# Data dumps and Spark outputs (too large for GitHub)
+*.csv.gz
+*.parquet
+spark-warehouse/
+metastore_db/
+derby.log
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+# keep result CSVs
+!results/*.csv

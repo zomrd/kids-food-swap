@@ -1,0 +1,3 @@
+version,products_with_swap,coverage_pct,unique_alternatives,max_times_same_alt,avg_tag_similarity_top1,avg_sugar_saved_tsp_top1
+v1: sugar only,811,89.5,70,125,0.13,4.9
+v2: tags + diversity,368,40.6,222,5,0.54,4.4

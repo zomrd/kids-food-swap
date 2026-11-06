@@ -1,0 +1,865 @@
+﻿product,brand,product_group,grade,sugar_g_100,rank,alt_product,alt_brand,alt_grade,alt_sugar_g_100,tag_similarity,sugar_saved_tsp
+Pâte de Pralin,Vahiné,Biscuits & wafers,E,52.0,1,HAZELNUT COOKIES,Quickbury,D,0.0,0.3,13.0
+Pâte de Pralin,Vahiné,Biscuits & wafers,E,52.0,2,Finger Biscuits,Ülker,A,0.0,0.3,13.0
+Pâte de Pralin,Vahiné,Biscuits & wafers,E,52.0,3,Digestive Sugar Free,Mcvitie's,D,0.3,0.3,12.9
+Digestive المحجر,Mcvitie's,Biscuits & wafers,E,50.0,1,HAZELNUT COOKIES,Quickbury,D,0.0,0.3,12.5
+Digestive المحجر,Mcvitie's,Biscuits & wafers,E,50.0,2,Finger Biscuits,Ülker,A,0.0,0.3,12.5
+Digestive المحجر,Mcvitie's,Biscuits & wafers,E,50.0,3,Digestive Sugar Free,Mcvitie's,D,0.3,0.3,12.4
+Twix,Twix,Biscuits & wafers,E,48.0,1,rico wafers,Rico,C,7.37,0.25,10.2
+Milka (Oreo),Milka,Biscuits & wafers,E,48.0,1,Love Mini Cookies,Keto Real,D,0.0,0.22,12.0
+break Tiffany,Tiffany,Biscuits & wafers,E,46.2,1,Hazelnut sugar free,Unknown,D,0.5,0.5,11.4
+break Tiffany,Tiffany,Biscuits & wafers,E,46.2,2,Ovaltine Chocolate Malt Wafers,Ovaltine,C,7.0,0.5,9.8
+break Tiffany,Tiffany,Biscuits & wafers,E,46.2,3,Loacker hzelnut,Loacker,D,16.0,0.5,7.6
+Breaktime,Tiffany,Biscuits & wafers,E,46.15,1,Love Mini Cookies,Keto Real,D,0.0,0.22,11.5
+Breaksta,Tiffany,Biscuits & wafers,E,46.15,1,rico wafers,Rico,C,7.37,0.33,9.7
+Almond butter cookies,Innocent Sweets,Biscuits & wafers,D,45.71,1,Finger Biscuits,Ülker,A,0.0,0.3,11.4
+Almond butter cookies,Innocent Sweets,Biscuits & wafers,D,45.71,2,Digestive,Gullón,C,0.5,0.3,11.3
+Almond butter cookies,Innocent Sweets,Biscuits & wafers,D,45.71,3,digestives,Natureland,A,2.0,0.3,10.9
+Gourmet Wafer Rolls Filled With Chocolate Cream,Haweek,Biscuits & wafers,E,44.0,1,Ovaltine Chocolate Malt Wafers,Ovaltine,C,7.0,1.0,9.2
+Gourmet Wafer Rolls Filled With Chocolate Cream,Haweek,Biscuits & wafers,E,44.0,2,Hazelnut sugar free,Unknown,D,0.5,0.25,10.9
+Gourmet Wafer Rolls Filled With Chocolate Cream,Haweek,Biscuits & wafers,E,44.0,3,Loacker hzelnut,Loacker,D,16.0,0.25,7.0
+Grahams,M.y. San,Biscuits & wafers,E,44.0,1,HAZELNUT COOKIES,Quickbury,D,0.0,0.3,11.0
+Grahams,M.y. San,Biscuits & wafers,E,44.0,2,Finger Biscuits,Ülker,A,0.0,0.3,11.0
+Grahams,M.y. San,Biscuits & wafers,E,44.0,3,Digestive Sugar Free,Mcvitie's,D,0.3,0.3,10.9
+Luxury wafer,Royal Dansk,Biscuits & wafers,E,41.94,1,Hazelnut sugar free,Unknown,D,0.5,1.0,10.4
+Luxury wafer,Royal Dansk,Biscuits & wafers,E,41.94,2,Loacker hzelnut,Loacker,D,16.0,1.0,6.5
+Luxury wafer,Royal Dansk,Biscuits & wafers,E,41.94,3,Ovaltine Chocolate Malt Wafers,Ovaltine,C,7.0,0.25,8.7
+oreo,Oreo,Biscuits & wafers,E,41.5,1,Ovaltine Chocolate Malt Wafers,Ovaltine,C,7.0,0.25,8.6
+OREO Lemon Flavor Creme,Oreo,Biscuits & wafers,E,41.38,1,HAZELNUT COOKIES,Quickbury,D,0.0,0.3,10.3
+OREO Lemon Flavor Creme,Oreo,Biscuits & wafers,E,41.38,2,Finger Biscuits,Ülker,A,0.0,0.3,10.3
+OREO Lemon Flavor Creme,Oreo,Biscuits & wafers,E,41.38,3,Digestive Sugar Free,Mcvitie's,D,0.3,0.3,10.3
+Elitesse,Skawa,Biscuits & wafers,E,41.0,1,Ovaltine Chocolate Malt Wafers,Ovaltine,C,7.0,0.75,8.5
+Elitesse,Skawa,Biscuits & wafers,E,41.0,2,Hazelnut sugar free,Unknown,D,0.5,0.33,10.1
+Elitesse,Skawa,Biscuits & wafers,E,41.0,3,Loacker hzelnut,Loacker,D,16.0,0.33,6.2
+Loacker collection,Loacker,Biscuits & wafers,E,40.0,1,Hazelnut sugar free,Unknown,D,0.5,1.0,9.9
+Loacker collection,Loacker,Biscuits & wafers,E,40.0,2,Loacker hzelnut,Loacker,D,16.0,1.0,6.0
+"Lotus (Caramelised Biscuits, 156g)",Lotus,Biscuits & wafers,E,38.4,1,Papadopoulos digestive bar with orange pieces and dark chocolate,Papadopoulos,D,23.0,0.5,3.8
+kras Wafers,Kraś,Biscuits & wafers,E,36.84,1,rico wafers,Rico,C,7.37,0.33,7.4
+Oreo golden,Oreo,Biscuits & wafers,E,36.23,1,HAZELNUT COOKIES,Quickbury,D,0.0,0.3,9.1
+Oreo golden,Oreo,Biscuits & wafers,E,36.23,2,Digestive Sugar Free,Mcvitie's,D,0.3,0.3,9.0
+Oreo golden,Oreo,Biscuits & wafers,E,36.23,3,Digestive,Gullón,C,0.5,0.3,8.9
+Maamoul with bor & bran,Raged,Biscuits & wafers,D,34.0,1,Digestive,Gullón,C,0.5,0.3,8.4
+Maamoul with bor & bran,Raged,Biscuits & wafers,D,34.0,2,digestives,Natureland,A,2.0,0.3,8.0
+Maamoul with bor & bran,Raged,Biscuits & wafers,D,34.0,3,Peanut Butter Cookies,Koala Picks,B,5.0,0.3,7.2
+Eti Wafe'up extra Hazelnut Wafer,Eti,Biscuits & wafers,E,33.45,1,rico wafers,Rico,C,7.37,0.5,6.5
+Butter cookies,White Castle,Biscuits & wafers,E,33.33,1,Digestive,Gullón,C,0.5,0.3,8.2
+Butter cookies,White Castle,Biscuits & wafers,E,33.33,2,sugar Free Chocolate Wafer,Gullón,D,1.67,0.3,7.9
+Butter cookies,White Castle,Biscuits & wafers,E,33.33,3,digestives,Natureland,A,2.0,0.3,7.8
+Oatmeal raisin cookies,Unknown,Biscuits & wafers,D,33.33,1,Digestive,Gullón,C,0.5,0.3,8.2
+Oatmeal raisin cookies,Unknown,Biscuits & wafers,D,33.33,2,digestives,Natureland,A,2.0,0.3,7.8
+Oatmeal raisin cookies,Unknown,Biscuits & wafers,D,33.33,3,Peanut Butter Cookies,Koala Picks,B,5.0,0.3,7.1
+Red Velvet Cookie,Unknown,Biscuits & wafers,D,33.21,1,digestives,Natureland,A,2.0,0.3,7.8
+Red Velvet Cookie,Unknown,Biscuits & wafers,D,33.21,2,Peanut Butter Cookies,Koala Picks,B,5.0,0.3,7.1
+Red Velvet Cookie,Unknown,Biscuits & wafers,D,33.21,3,Digestive light biscuits,Britannia,C,5.0,0.3,7.1
+Faro Hazelnut Wafers,السعر 1.25 ريال,Biscuits & wafers,E,32.5,1,rico wafers,Rico,C,7.37,1.0,6.3
+Digestive,Unknown,Biscuits & wafers,E,30.0,1,sugar Free Chocolate Wafer,Gullón,D,1.67,0.3,7.1
+Digestive,Unknown,Biscuits & wafers,E,30.0,2,Traditional Sandwich Biscuits,Kitco,D,3.33,0.3,6.7
+Digestive,Unknown,Biscuits & wafers,E,30.0,3,Digestive bars,Unknown,D,4.5,0.3,6.4
+La pasticceria,Dolcioso,Biscuits & wafers,E,30.0,1,Digestive Light,Misura Dolcesenza,D,20.2,0.33,2.4
+Belvita good morning,Belvita,Biscuits & wafers,E,29.5,1,sugar Free Chocolate Wafer,Gullón,D,1.67,0.3,7.0
+Belvita good morning,Belvita,Biscuits & wafers,E,29.5,2,Traditional Sandwich Biscuits,Kitco,D,3.33,0.3,6.5
+Belvita good morning,Belvita,Biscuits & wafers,E,29.5,3,Digestive bars,Unknown,D,4.5,0.3,6.2
+Abu walad,Unknown,Biscuits & wafers,E,29.2,1,sugar Free Chocolate Wafer,Gullón,D,1.67,0.3,6.9
+Abu walad,Unknown,Biscuits & wafers,E,29.2,2,Traditional Sandwich Biscuits,Kitco,D,3.33,0.3,6.5
+Abu walad,Unknown,Biscuits & wafers,E,29.2,3,Digestive bars,Unknown,D,4.5,0.3,6.2
+Digestive Milk Chocolate,Mcvitie's,Biscuits & wafers,E,29.13,1,sugar Free Chocolate Wafer,Gullón,D,1.67,0.3,6.9
+Digestive Milk Chocolate,Mcvitie's,Biscuits & wafers,E,29.13,2,Traditional Sandwich Biscuits,Kitco,D,3.33,0.3,6.4
+Digestive Milk Chocolate,Mcvitie's,Biscuits & wafers,E,29.13,3,Digestive bars,Unknown,D,4.5,0.3,6.2
+Filipinos Dark Chocolate,Artiach,Biscuits & wafers,E,29.0,1,Traditional Sandwich Biscuits,Kitco,D,3.33,0.3,6.4
+Filipinos Dark Chocolate,Artiach,Biscuits & wafers,E,29.0,2,Digestive bars,Unknown,D,4.5,0.3,6.1
+Filipinos Dark Chocolate,Artiach,Biscuits & wafers,E,29.0,3,Peanut Butter Cookies,Koala Picks,B,5.0,0.3,6.0
+nature valley oats and chocolate,Nature Valley,Biscuits & wafers,E,28.85,1,Smart Mini Cookies,Keto Real,D,0.0,0.5,7.2
+kings B pwans soft cookie,Allatini,Biscuits & wafers,E,28.0,1,Peanut Butter Cookies,Koala Picks,B,5.0,0.3,5.8
+kings B pwans soft cookie,Allatini,Biscuits & wafers,E,28.0,2,High Fibre Biscuits,Manji,D,5.0,0.3,5.8
+kings B pwans soft cookie,Allatini,Biscuits & wafers,E,28.0,3,Digestive light biscuits,Britannia,C,5.0,0.3,5.8
+معمول ماما تمر,شموع الماضى,Biscuits & wafers,E,27.3,1,High Fibre Biscuits,Manji,D,5.0,0.3,5.6
+معمول ماما تمر,شموع الماضى,Biscuits & wafers,E,27.3,2,Digestive light biscuits,Britannia,C,5.0,0.3,5.6
+معمول ماما تمر,شموع الماضى,Biscuits & wafers,E,27.3,3,Nutri choice 5 grain digestive,Britannia,C,7.0,0.3,5.1
+Sando Italian Recipe Chocolate Wafer,Mayora,Biscuits & wafers,E,25.0,1,Love Mini Cookies,Keto Real,D,0.0,0.25,6.2
+Organic Oat cookies green,Unknown,Biscuits & wafers,E,25.0,1,High Fibre Biscuits,Manji,D,5.0,0.3,5.0
+Organic Oat cookies green,Unknown,Biscuits & wafers,E,25.0,2,Digestive light biscuits,Britannia,C,5.0,0.3,5.0
+Organic Oat cookies green,Unknown,Biscuits & wafers,E,25.0,3,Nutri choice 5 grain digestive,Britannia,C,7.0,0.3,4.5
+Ulker Chocosandwich,Ulker,Biscuits & wafers,E,25.0,1,High Fibre Biscuits,Manji,D,5.0,0.3,5.0
+Ulker Chocosandwich,Ulker,Biscuits & wafers,E,25.0,2,Digestive light biscuits,Britannia,C,5.0,0.3,5.0
+Ulker Chocosandwich,Ulker,Biscuits & wafers,E,25.0,3,Nutri choice 5 grain digestive,Britannia,C,7.0,0.3,4.5
+MOM'S MAGIC,Sunfeast,Biscuits & wafers,E,24.0,1,High Fibre Biscuits,Manji,D,5.0,0.3,4.8
+MOM'S MAGIC,Sunfeast,Biscuits & wafers,E,24.0,2,Nutri choice 5 grain digestive,Britannia,C,7.0,0.3,4.2
+MOM'S MAGIC,Sunfeast,Biscuits & wafers,E,24.0,3,Butter Cookies,Baker's Pride,C,7.0,0.3,4.2
+Pran Potato biscuits,Pran,Biscuits & wafers,D,24.0,1,Nutri choice 5 grain digestive,Britannia,C,7.0,0.3,4.2
+Pran Potato biscuits,Pran,Biscuits & wafers,D,24.0,2,Butter Cookies,Baker's Pride,C,7.0,0.3,4.2
+Pran Potato biscuits,Pran,Biscuits & wafers,D,24.0,3,biscuits with peanut butter,Nature Valley,B,8.1,0.3,4.0
+Everyday Milk Biscuit,Tiffany,Biscuits & wafers,E,23.25,1,Butter Cookies,Baker's Pride,C,7.0,0.3,4.1
+Everyday Milk Biscuit,Tiffany,Biscuits & wafers,E,23.25,2,biscuits with peanut butter,Nature Valley,B,8.1,0.3,3.8
+Everyday Milk Biscuit,Tiffany,Biscuits & wafers,E,23.25,3,vegan oat cookies,Taqa,D,8.7,0.3,3.6
+Fitness biscuits,Nestlé,Biscuits & wafers,D,23.1,1,Butter Cookies,Baker's Pride,C,7.0,0.3,4.0
+Fitness biscuits,Nestlé,Biscuits & wafers,D,23.1,2,biscuits with peanut butter,Nature Valley,B,8.1,0.3,3.8
+Fitness biscuits,Nestlé,Biscuits & wafers,D,23.1,3,Everyday Nice Sugar sprinkled coconut biscuits,Tiffany,C,10.4,0.3,3.2
+Tea Biscuits,Deemah,Biscuits & wafers,D,23.0,1,Butter Cookies,Baker's Pride,C,7.0,0.3,4.0
+Tea Biscuits,Deemah,Biscuits & wafers,D,23.0,2,biscuits with peanut butter,Nature Valley,B,8.1,0.3,3.7
+Tea Biscuits,Deemah,Biscuits & wafers,D,23.0,3,Everyday Nice Sugar sprinkled coconut biscuits,Tiffany,C,10.4,0.3,3.2
+ulker choco al amir,Ulker,Biscuits & wafers,E,22.1,1,Love Mini Cookies,Keto Real,D,0.0,0.29,5.5
+Sunrise breakfast touch of honey & chia biscuits,Nature's Path,Biscuits & wafers,D,22.0,1,biscuits with peanut butter,Nature Valley,B,8.1,0.3,3.5
+Sunrise breakfast touch of honey & chia biscuits,Nature's Path,Biscuits & wafers,D,22.0,2,Everyday Nice Sugar sprinkled coconut biscuits,Tiffany,C,10.4,0.3,2.9
+Sunrise breakfast touch of honey & chia biscuits,Nature's Path,Biscuits & wafers,D,22.0,3,Tiffany Orange Biscuits -,Tiffany,C,10.4,0.3,2.9
+Vegan coconut crunch,Rhythm 108,Biscuits & wafers,E,22.0,1,vegan oat cookies,Taqa,D,8.7,0.3,3.3
+Vegan coconut crunch,Rhythm 108,Biscuits & wafers,E,22.0,2,Everyday Nice Sugar sprinkled coconut biscuits,Tiffany,C,10.4,0.3,2.9
+Vegan coconut crunch,Rhythm 108,Biscuits & wafers,E,22.0,3,Tiffany Orange Biscuits -,Tiffany,C,10.4,0.3,2.9
+ulker tea biscuit big,Ülker,Biscuits & wafers,E,21.0,1,vegan oat cookies,Taqa,D,8.7,0.3,3.1
+ulker tea biscuit big,Ülker,Biscuits & wafers,E,21.0,2,Everyday Nice Sugar sprinkled coconut biscuits,Tiffany,C,10.4,0.3,2.6
+ulker tea biscuit big,Ülker,Biscuits & wafers,E,21.0,3,Tiffany Orange Biscuits -,Tiffany,C,10.4,0.3,2.6
+Good Day Cashew Cookies,Britannia,Biscuits & wafers,D,21.0,1,Tiffany Orange Biscuits -,Tiffany,C,10.4,0.3,2.6
+Good Day Cashew Cookies,Britannia,Biscuits & wafers,D,21.0,2,Fonte choco wafer,Unknown,C,11.0,0.3,2.5
+Milky Biscuit,Ulker,Biscuits & wafers,E,20.7,1,vegan oat cookies,Taqa,D,8.7,0.3,3.0
+Milky Biscuit,Ulker,Biscuits & wafers,E,20.7,2,Tiffany Orange Biscuits -,Tiffany,C,10.4,0.3,2.6
+Milky Biscuit,Ulker,Biscuits & wafers,E,20.7,3,Fonte choco wafer,Unknown,C,11.0,0.3,2.4
+Marie Finger Biscuits,Mcvitie's,Biscuits & wafers,D,20.7,1,Fonte choco wafer,Unknown,C,11.0,0.3,2.4
+Mcvities Digestive25% Light Biscuits,Mcvitie's,Biscuits & wafers,D,20.2,1,Fonte choco wafer,Unknown,C,11.0,0.3,2.3
+Bran belvitA 20days,Unknown,Biscuits & wafers,D,20.0,1,Fonte choco wafer,Unknown,C,11.0,0.3,2.2
+معمول بروتين,الحطب,Biscuits & wafers,E,18.55,1,vegan oat cookies,Taqa,D,8.7,0.3,2.5
+معمول بروتين,الحطب,Biscuits & wafers,E,18.55,2,Crustoffs,Charlotte's,D,12.5,0.3,1.5
+Honey Rings Cereal,Spinneys Food,Breakfast cereals,E,38.0,1,Chocolate Puffs,Farm Girl,A,0.0,0.3,9.5
+Honey Rings Cereal,Spinneys Food,Breakfast cereals,E,38.0,2,Organic Bio Rye,Milzu,A,0.9,0.3,9.3
+Honey Rings Cereal,Spinneys Food,Breakfast cereals,E,38.0,3,Organic gluten free jumbo oats,Unknown,B,1.8,0.3,9.0
+Frosties,Kellog,Breakfast cereals,D,37.0,1,Chocolate Puffs,Farm Girl,A,0.0,0.3,9.2
+Frosties,Kellog,Breakfast cereals,D,37.0,2,Organic Bio Rye,Milzu,A,0.9,0.3,9.0
+Frosties,Kellog,Breakfast cereals,D,37.0,3,Organic gluten free jumbo oats,Unknown,B,1.8,0.3,8.8
+Crunchy Nut,Kellogg's,Breakfast cereals,D,36.67,1,Sweet cornflakes,Unknown,B,1.7,0.62,8.7
+Crunchy Nut,Kellogg's,Breakfast cereals,D,36.67,2,CORN FLAKES,Natur's,C,5.9,0.62,7.7
+Crunchy Nut,Kellogg's,Breakfast cereals,D,36.67,3,Nestle country country corn flakes,Unknown,C,9.9,0.62,6.7
+hony nut,Kellogg's,Breakfast cereals,D,35.0,1,Sweet cornflakes,Unknown,B,1.7,1.0,8.3
+hony nut,Kellogg's,Breakfast cereals,D,35.0,2,CORN FLAKES,Natur's,C,5.9,1.0,7.3
+hony nut,Kellogg's,Breakfast cereals,D,35.0,3,Nestle country country corn flakes,Unknown,C,9.9,1.0,6.3
+Organic Dark Chocolate Orzo rice,Molino Rossetto,Breakfast cereals,D,32.0,1,Nesquik,Nestlé,C,22.4,0.4,2.4
+Organic Dark Chocolate Orzo rice,Molino Rossetto,Breakfast cereals,D,32.0,2,Nestle chocapic strong chocolate taste,Unknown,C,22.4,0.38,2.4
+Organic Dark Chocolate Orzo rice,Molino Rossetto,Breakfast cereals,D,32.0,3,Shredded Wheat Original,Signature Select,A,0.0,0.2,8.0
+Emco Musli With Fruit Pieces Crunchy,Emco,Breakfast cereals,C,31.0,1,"CACAO, COCONUT & CHIA SEEDS MUESLI",Graci,A,1.6,1.0,7.4
+Emco Musli With Fruit Pieces Crunchy,Emco,Breakfast cereals,C,31.0,2,Go up,Nestlé,B,15.0,0.33,4.0
+Emco Musli With Fruit Pieces Crunchy,Emco,Breakfast cereals,C,31.0,3,Müsli Traditional Fruit Pieces,Emco,B,21.0,0.33,2.5
+Nature valley crunchy oats and berries,Nature Valley,Breakfast cereals,D,30.2,1,Small oat flakes OL,Unknown,A,1.25,0.33,7.2
+Nature valley crunchy oats and berries,Nature Valley,Breakfast cereals,D,30.2,2,Orgran Multigrain O's With Quinoa,Orgran,C,12.7,0.33,4.4
+Nature valley crunchy oats and berries,Nature Valley,Breakfast cereals,D,30.2,3,FINE ROLLED OATS,Natureland,A,0.0,0.25,7.6
+crunchy muesli,Kellogg's,Breakfast cereals,E,29.0,1,Musli,Emco,C,19.0,0.6,2.5
+crunchy muesli,Kellogg's,Breakfast cereals,E,29.0,2,Apple & Cinnanon Bircher,Alara,A,11.2,0.5,4.4
+crunchy muesli,Kellogg's,Breakfast cereals,E,29.0,3,Rainbow Hoops,Farm Girl,C,0.0,0.2,7.2
+chocolate lover,Madame Labriski,Breakfast cereals,D,27.6,1,Shredded Wheat Original,Signature Select,A,0.0,0.33,6.9
+chocolate lover,Madame Labriski,Breakfast cereals,D,27.6,2,Honey O's,Farm Girl,C,0.0,0.33,6.9
+chocolate lover,Madame Labriski,Breakfast cereals,D,27.6,3,Original Cereali Integrali,W. K. Kellogg,A,2.4,0.33,6.3
+Granola chocolate & almond,Emco,Breakfast cereals,D,26.0,1,"CACAO, COCONUT & CHIA SEEDS MUESLI",Graci,A,1.6,0.33,6.1
+Granola chocolate & almond,Emco,Breakfast cereals,D,26.0,2,Crispy Muesli with Chia and seeds,Unknown,C,12.0,0.33,3.5
+Granola chocolate & almond,Emco,Breakfast cereals,D,26.0,3,Granola clusters with honey,Nestlé,C,18.0,0.33,2.0
+Chocapic,Nestlé,Breakfast cereals,D,24.9,1,Shredded Wheat Original,Signature Select,A,0.0,0.5,6.2
+Chocapic,Nestlé,Breakfast cereals,D,24.9,2,Honey O's,Farm Girl,C,0.0,0.5,6.2
+Chocapic,Nestlé,Breakfast cereals,D,24.9,3,Original Cereali Integrali,W. K. Kellogg,A,2.4,0.5,5.6
+Chocapic,Chocapic,Breakfast cereals,D,24.9,1,Chocolate Puffs,Farm Girl,A,0.0,0.3,6.2
+Chocapic,Chocapic,Breakfast cereals,D,24.9,2,Organic Bio Rye,Milzu,A,0.9,0.3,6.0
+Chocapic,Chocapic,Breakfast cereals,D,24.9,3,Organic gluten free jumbo oats,Unknown,B,1.8,0.3,5.8
+"Granola - sans gluten sarrasin, millet, amarante - Aux Noix",Emco,Breakfast cereals,D,24.0,1,"CACAO, COCONUT & CHIA SEEDS MUESLI",Graci,A,1.6,0.33,5.6
+"Granola - sans gluten sarrasin, millet, amarante - Aux Noix",Emco,Breakfast cereals,D,24.0,2,Crispy Muesli with Chia and seeds,Unknown,C,12.0,0.33,3.0
+"Granola - sans gluten sarrasin, millet, amarante - Aux Noix",Emco,Breakfast cereals,D,24.0,3,Go up,Nestlé,B,15.0,0.2,2.2
+Froot loops,Kellogg's,Breakfast cereals,D,24.0,1,Shredded Wheat Original,Signature Select,A,0.0,1.0,6.0
+Froot loops,Kellogg's,Breakfast cereals,D,24.0,2,Honey O's,Farm Girl,C,0.0,1.0,6.0
+Froot loops,Kellogg's,Breakfast cereals,D,24.0,3,Original Cereali Integrali,W. K. Kellogg,A,2.4,1.0,5.4
+Granola white chocolate with pistachio,Kellogg's,Breakfast cereals,E,23.0,1,Chocolate Puffs,Farm Girl,A,0.0,0.3,5.8
+Granola white chocolate with pistachio,Kellogg's,Breakfast cereals,E,23.0,2,Organic Bio Rye,Milzu,A,0.9,0.3,5.5
+Granola white chocolate with pistachio,Kellogg's,Breakfast cereals,E,23.0,3,Organic gluten free jumbo oats,Unknown,B,1.8,0.3,5.3
+country corn flakes,Nestlé,Breakfast cereals,D,22.5,1,Sweet cornflakes,Unknown,B,1.7,1.0,5.2
+country corn flakes,Nestlé,Breakfast cereals,D,22.5,2,CORN FLAKES,Natur's,C,5.9,1.0,4.2
+country corn flakes,Nestlé,Breakfast cereals,D,22.5,3,Nestle country country corn flakes,Unknown,C,9.9,1.0,3.2
+Nestle cookie crisp cereal,7613031341726,Breakfast cereals,C,22.4,1,Chocolate Puffs,Farm Girl,A,0.0,0.3,5.6
+Nestle cookie crisp cereal,7613031341726,Breakfast cereals,C,22.4,2,Organic Bio Rye,Milzu,A,0.9,0.3,5.4
+Nestle cookie crisp cereal,7613031341726,Breakfast cereals,C,22.4,3,Organic gluten free jumbo oats,Unknown,B,1.8,0.3,5.1
+Nesquik,Cereal Partners France,Breakfast cereals,C,22.4,1,Shredded Wheat Original,Signature Select,A,0.0,0.33,5.6
+Nesquik,Cereal Partners France,Breakfast cereals,C,22.4,2,Original Cereali Integrali,W. K. Kellogg,A,2.4,0.33,5.0
+Nesquik,Nestlé,Breakfast cereals,C,22.4,1,Original Cereali Integrali,W. K. Kellogg,A,2.4,0.5,5.0
+Granola fitness quinoa almond chocolate,Nestlé,Breakfast cereals,D,22.3,1,"CACAO, COCONUT & CHIA SEEDS MUESLI",Graci,A,1.6,1.0,5.2
+Granola fitness quinoa almond chocolate,Nestlé,Breakfast cereals,D,22.3,2,Crispy Muesli with Chia and seeds,Unknown,C,12.0,1.0,2.6
+Granola fitness quinoa almond chocolate,Nestlé,Breakfast cereals,D,22.3,3,Go up,Nestlé,B,15.0,0.33,1.8
+Kelloggs granola white chocolate and pistachio,Unknown,Breakfast cereals,E,22.22,1,"CACAO, COCONUT & CHIA SEEDS MUESLI",Graci,A,1.6,1.0,5.2
+Kelloggs granola white chocolate and pistachio,Unknown,Breakfast cereals,E,22.22,2,Crispy Muesli with Chia and seeds,Unknown,C,12.0,1.0,2.6
+Kelloggs granola white chocolate and pistachio,Unknown,Breakfast cereals,E,22.22,3,Go up,Nestlé,B,15.0,0.33,1.8
+Nestle honey cheerios,Unknown,Breakfast cereals,C,22.2,1,Sweet cornflakes,Unknown,B,1.7,0.2,5.1
+Nestle honey cheerios,Unknown,Breakfast cereals,C,22.2,2,Nestle original fitness new recipe cereal,Nestlé,A,8.8,0.2,3.4
+Nestle honey cheerios,Unknown,Breakfast cereals,C,22.2,3,Kelloggs all-bran flakes,Kellogg Europe Trading Ltd,B,14.0,0.2,2.0
+Granola honey & nuts,Emco,Breakfast cereals,D,22.0,1,Crispy Muesli with Chia and seeds,Unknown,C,12.0,0.33,2.5
+Granola honey & nuts,Emco,Breakfast cereals,D,22.0,2,Go up,Nestlé,B,15.0,0.2,1.8
+Go Free Honey Flakes,Nestlé,Breakfast cereals,D,22.0,1,Small oat flakes OL,Unknown,A,1.25,0.5,5.2
+Go Free Honey Flakes,Nestlé,Breakfast cereals,D,22.0,2,Orgran Multigrain O's With Quinoa,Orgran,C,12.7,0.5,2.3
+Go Free Honey Flakes,Nestlé,Breakfast cereals,D,22.0,3,FINE ROLLED OATS,Natureland,A,0.0,0.25,5.5
+Coco Pops Chocos,Kellog’s,Breakfast cereals,C,22.0,1,Quinoa flakes strawberry,Unknown,B,2.38,0.3,4.9
+Coco Pops Chocos,Kellog’s,Breakfast cereals,C,22.0,2,Granola Chocolate With Hazelnut,Natura,A,3.56,0.3,4.6
+Coco Pops Chocos,Kellog’s,Breakfast cereals,C,22.0,3,Weetabix original 100% Wholegrain,Weetabix,B,4.4,0.3,4.4
+Crispy Oats Cereal: Raisins & Almonds,Quaker,Breakfast cereals,D,21.56,1,FINE ROLLED OATS,Natureland,A,0.0,1.0,5.4
+Crispy Oats Cereal: Raisins & Almonds,Quaker,Breakfast cereals,D,21.56,2,Rolled Oats,Captain Oats,A,0.0,1.0,5.4
+Crispy Oats Cereal: Raisins & Almonds,Quaker,Breakfast cereals,D,21.56,3,Quaker White Oats,Quaker,A,1.1,1.0,5.1
+Müsli Traditional Fruit Pieces,Emco,Breakfast cereals,B,21.0,1,Apple & Cinnanon Bircher,Alara,A,11.2,0.75,2.4
+Fitness Granola Crunchy Oat,Nestlé,Breakfast cereals,C,19.9,1,Apple & Cinnanon Bircher,Alara,A,11.2,0.25,2.2
+Fitness granola,Nestle,Breakfast cereals,C,19.5,1,Apple & Cinnanon Bircher,Alara,A,11.2,0.25,2.1
+Musli,Emco,Breakfast cereals,C,19.0,1,Apple & Cinnanon Bircher,Alara,A,11.2,0.75,2.0
+Toasted millet museli fig & honey with salted pistachios,Monsoon Harvest,Breakfast cereals,D,18.5,1,Quinoa flakes strawberry,Unknown,B,2.38,0.3,4.0
+Toasted millet museli fig & honey with salted pistachios,Monsoon Harvest,Breakfast cereals,D,18.5,2,Granola Chocolate With Hazelnut,Natura,A,3.56,0.3,3.7
+Toasted millet museli fig & honey with salted pistachios,Monsoon Harvest,Breakfast cereals,D,18.5,3,Weetabix original 100% Wholegrain,Weetabix,B,4.4,0.3,3.5
+Kelloggs coco pops original,Kellogg's,Breakfast cereals,D,17.0,1,Quinoa flakes strawberry,Unknown,B,2.38,0.3,3.7
+Kelloggs coco pops original,Kellogg's,Breakfast cereals,D,17.0,2,Granola Chocolate With Hazelnut,Natura,A,3.56,0.3,3.4
+Kelloggs coco pops original,Kellogg's,Breakfast cereals,D,17.0,3,Weetabix original 100% Wholegrain,Weetabix,B,4.4,0.3,3.2
+Kelloggs coco pops original,Unknown,Breakfast cereals,C,17.0,1,Quinoa flakes strawberry,Unknown,B,2.38,0.3,3.7
+Kelloggs coco pops original,Unknown,Breakfast cereals,C,17.0,2,Granola Chocolate With Hazelnut,Natura,A,3.56,0.3,3.4
+Kelloggs coco pops original,Unknown,Breakfast cereals,C,17.0,3,Weetabix original 100% Wholegrain,Weetabix,B,4.4,0.3,3.2
+Sante gold granola,Sante,Breakfast cereals,C,15.0,1,Quinoa flakes strawberry,Unknown,B,2.38,0.3,3.2
+Sante gold granola,Sante,Breakfast cereals,C,15.0,2,Granola Chocolate With Hazelnut,Natura,A,3.56,0.3,2.9
+Sante gold granola,Sante,Breakfast cereals,C,15.0,3,Weetabix original 100% Wholegrain,Weetabix,B,4.4,0.3,2.6
+Go up,Nestlé,Breakfast cereals,B,15.0,1,Rolled oats whole grain,Monopoly,A,0.5,0.25,3.6
+Go up,Nestlé,Breakfast cereals,B,15.0,2,Quick Cooking White Oats,Quaker,A,1.25,0.22,3.4
+Dorset cereals,Unknown,Breakfast cereals,E,14.7,1,Quaker Oat Crisp Cereal 375 g,Quaker,A,10.0,0.3,1.2
+Kelloggs all-bran flakes,Kellogg Europe Trading Ltd,Breakfast cereals,B,14.0,1,Nestle original fitness new recipe cereal,Nestlé,A,8.8,0.67,1.3
+Kelloggs all-bran flakes,Kellogg Europe Trading Ltd,Breakfast cereals,B,14.0,2,Small oat flakes OL,Unknown,A,1.25,0.4,3.2
+Kelloggs all-bran flakes,Kellogg Europe Trading Ltd,Breakfast cereals,B,14.0,3,FINE ROLLED OATS,Natureland,A,0.0,0.29,3.5
+Orgran Multigrain O's With Quinoa,Orgran,Breakfast cereals,C,12.7,1,Small oat flakes OL,Unknown,A,1.25,1.0,2.9
+Orgran Multigrain O's With Quinoa,Orgran,Breakfast cereals,C,12.7,2,FINE ROLLED OATS,Natureland,A,0.0,0.5,3.2
+Orgran Multigrain O's With Quinoa,Orgran,Breakfast cereals,C,12.7,3,Rolled Oats,Captain Oats,A,0.0,0.5,3.2
+Corn Flakes,Poppins,Breakfast cereals,D,10.0,1,Sweet cornflakes,Unknown,B,1.7,1.0,2.1
+Corn Flakes,Poppins,Breakfast cereals,D,10.0,2,Small oat flakes OL,Unknown,A,1.25,0.4,2.2
+Corn Flakes,Poppins,Breakfast cereals,D,10.0,3,Rolled Oats,Captain Oats,A,0.0,0.29,2.5
+Corn Flakes,Neskers,Breakfast cereals,C,10.0,1,Rolled Oats,Captain Oats,A,0.0,0.29,2.5
+Corn Flakes,Neskers,Breakfast cereals,C,10.0,2,Quaker White Oats,Quaker,A,1.1,0.29,2.2
+Corn Flakes,Neskers,Breakfast cereals,C,10.0,3,Rolled oats whole grain,Monopoly,A,0.5,0.2,2.4
+Gold Corn flakes,Nestlé,Breakfast cereals,C,9.9,1,Rolled Oats,Captain Oats,A,0.0,0.29,2.5
+Gold Corn flakes,Nestlé,Breakfast cereals,C,9.9,2,Quaker White Oats,Quaker,A,1.1,0.29,2.2
+Gold Corn flakes,Nestlé,Breakfast cereals,C,9.9,3,Rolled oats whole grain,Monopoly,A,0.5,0.2,2.4
+Nestle country country corn flakes,Unknown,Breakfast cereals,C,9.9,1,Quaker White Oats,Quaker,A,1.1,0.29,2.2
+Nestle country country corn flakes,Unknown,Breakfast cereals,C,9.9,2,Rolled oats whole grain,Monopoly,A,0.5,0.2,2.4
+Corn Flakes,Kellogg's,Breakfast cereals,D,8.0,1,Quaker White Oats,Quaker,A,1.1,0.29,1.7
+Corn Flakes,Kellogg's,Breakfast cereals,D,8.0,2,Honey O's,Farm Girl,C,0.0,0.2,2.0
+Corn Flakes,Kellogg's,Breakfast cereals,D,8.0,3,Rolled oats whole grain,Monopoly,A,0.5,0.2,1.9
+Corn flakes,Kellogg's,Breakfast cereals,D,8.0,1,Honey O's,Farm Girl,C,0.0,0.2,2.0
+Dark Chocolate Brownie Mix,Betty Crocker,Cakes & pastries,E,58.62,1,Vanilla Party Cakes,Unknown,B,9.0,1.0,12.4
+Dark Chocolate Brownie Mix,Betty Crocker,Cakes & pastries,E,58.62,2,nahool vanilla cake,Nahool,C,11.0,1.0,11.9
+Dark Chocolate Brownie Mix,Betty Crocker,Cakes & pastries,E,58.62,3,Strawberry Milk Cake,Lulu Bakery,D,17.0,1.0,10.4
+"Rolls (vanilla cake, vanilla cream, strawberry jelly, white chocolate)",Novy Torta,Cakes & pastries,E,47.4,1,Brioche Swirls,St Pierre,D,14.5,0.45,8.2
+"Rolls (vanilla cake, vanilla cream, strawberry jelly, white chocolate)",Novy Torta,Cakes & pastries,E,47.4,2,CHEESE PUFF,Lusine,D,8.57,0.42,9.7
+Tim Tam,Arnott's,Cakes & pastries,E,46.0,1,"Frosted strawberry toaster pastries, strawberry",Kellogg's,D,30.77,0.22,3.8
+Tim Tam,Arnott's,Cakes & pastries,E,46.0,2,Vanilla Party Cakes,Unknown,B,9.0,0.2,9.2
+Tim Tam,Arnott's,Cakes & pastries,E,46.0,3,nahool vanilla cake,Nahool,C,11.0,0.2,8.8
+Delice double choco imp,Do Freeze L.l.c,Cakes & pastries,D,45.1,1,Vanilla Party Cakes,Unknown,B,9.0,0.5,9.0
+Delice double choco imp,Do Freeze L.l.c,Cakes & pastries,D,45.1,2,nahool vanilla cake,Nahool,C,11.0,0.5,8.5
+Delice double choco imp,Do Freeze L.l.c,Cakes & pastries,D,45.1,3,Tiramisù Cheesecake,Keto Real,C,0.0,0.33,11.3
+Çikolatalı Yaş Pasta (Milk Chocolate Red Velvet Cake Bar with Forest Fruit Sauce Filling),Ülker,Cakes & pastries,E,45.0,1,Brownie Bites,Mandul,D,27.6,0.25,4.4
+Rich Plum Cake,Bells,Cakes & pastries,E,43.0,1,Vanilla Party Cakes,Unknown,B,9.0,0.5,8.5
+Rich Plum Cake,Bells,Cakes & pastries,E,43.0,2,nahool vanilla cake,Nahool,C,11.0,0.5,8.0
+Rich Plum Cake,Bells,Cakes & pastries,E,43.0,3,Strawberry Milk Cake,Lulu Bakery,D,17.0,0.5,6.5
+cake,7 Days,Cakes & pastries,E,42.5,1,Vanilla Party Cakes,Unknown,B,9.0,0.5,8.4
+cake,7 Days,Cakes & pastries,E,42.5,2,nahool vanilla cake,Nahool,C,11.0,0.5,7.9
+cake,7 Days,Cakes & pastries,E,42.5,3,Strawberry Milk Cake,Lulu Bakery,D,17.0,0.5,6.4
+Prince Mini Gâteau (Coated Sponge Cake Filled with Chocolate Tasted Cream),Lu,Cakes & pastries,E,42.0,1,Brownie Bites,Mandul,D,27.6,0.5,3.6
+Prince Mini Gâteau (Coated Sponge Cake Filled with Chocolate Tasted Cream),Lu,Cakes & pastries,E,42.0,2,Strawberry Milk Cake,Lulu Bakery,D,17.0,0.33,6.2
+Prince Mini Gâteau (Coated Sponge Cake Filled with Chocolate Tasted Cream),Lu,Cakes & pastries,E,42.0,3,Mango Milk Cake,Lulu Bakery,D,19.0,0.33,5.8
+Strawberry Cake Bar,Lusine,Cakes & pastries,E,40.0,1,Strawberry Milk Cake,Lulu Bakery,D,17.0,1.0,5.8
+Strawberry Cake Bar,Lusine,Cakes & pastries,E,40.0,2,Mango Milk Cake,Lulu Bakery,D,19.0,1.0,5.2
+Strawberry Cake Bar,Lusine,Cakes & pastries,E,40.0,3,Banana Cake Slice,Lulu Bakery,D,19.0,1.0,5.2
+Twinkies - Chocolate Cake,Hostess,Cakes & pastries,E,37.66,1,Mango Milk Cake,Lulu Bakery,D,19.0,0.5,4.7
+Twinkies - Chocolate Cake,Hostess,Cakes & pastries,E,37.66,2,Banana Cake Slice,Lulu Bakery,D,19.0,0.5,4.7
+Twinkies - Chocolate Cake,Hostess,Cakes & pastries,E,37.66,3,Saffron Milk Cake,Lulu Bakery,D,22.0,0.5,3.9
+كيك بار لوزين فانيلا,7days,Cakes & pastries,E,36.0,1,Mango Milk Cake,Lulu Bakery,D,19.0,1.0,4.2
+كيك بار لوزين فانيلا,7days,Cakes & pastries,E,36.0,2,Banana Cake Slice,Lulu Bakery,D,19.0,1.0,4.2
+كيك بار لوزين فانيلا,7days,Cakes & pastries,E,36.0,3,Saffron Milk Cake,Lulu Bakery,D,22.0,1.0,3.5
+Il panettone gran galup,Galup,Cakes & pastries,E,35.8,1,Couronne des rois chocolat orange,Pasquier,D,18.0,0.6,4.4
+Il panettone gran galup,Galup,Cakes & pastries,E,35.8,2,"Courrone des rois, nature",Brioche Pasquier,D,14.0,0.5,5.4
+Il panettone gran galup,Galup,Cakes & pastries,E,35.8,3,Turkey & Cheddar Croissant,Diet Care,B,2.86,0.33,8.2
+Cereal,Kellogg’s,Cakes & pastries,E,34.38,1,Brioche Swirls,St Pierre,D,14.5,0.36,5.0
+Cereal,Kellogg’s,Cakes & pastries,E,34.38,2,CHEESE PUFF,Lusine,D,8.57,0.33,6.5
+Chocolate Brownie Cake,Todo,Cakes & pastries,E,34.0,1,Mango Milk Cake,Lulu Bakery,D,19.0,0.33,3.8
+Chocolate Brownie Cake,Todo,Cakes & pastries,E,34.0,2,Banana Cake Slice,Lulu Bakery,D,19.0,0.33,3.8
+Chocolate Brownie Cake,Todo,Cakes & pastries,E,34.0,3,Saffron Milk Cake,Lulu Bakery,D,22.0,0.33,3.0
+L’usine,Almarai,Cakes & pastries,E,33.33,1,Americana Cupcake Strawberry,Americana Cake,C,9.0,1.0,6.1
+L’usine,Almarai,Cakes & pastries,E,33.33,2,Banana Cake Slice,Lulu Bakery,D,19.0,0.5,3.6
+L’usine,Almarai,Cakes & pastries,E,33.33,3,Saffron Milk Cake,Lulu Bakery,D,22.0,0.5,2.8
+Deep'n Delicious Marble Cake,Mccain,Cakes & pastries,E,33.2,1,Saffron Milk Cake,Lulu Bakery,D,22.0,0.5,2.8
+Deep'n Delicious Marble Cake,Mccain,Cakes & pastries,E,33.2,2,Chocolate Peanut Cheesecake,Keto Real,D,0.0,0.33,8.3
+Deep'n Delicious Marble Cake,Mccain,Cakes & pastries,E,33.2,3,Cinnamon Pecan Cheesecake,Keto Real,D,0.0,0.33,8.3
+سانت ميشيل كيك براوني,St Michel,Cakes & pastries,E,33.0,1,Chocolate Peanut Cheesecake,Keto Real,D,0.0,0.25,8.2
+سانت ميشيل كيك براوني,St Michel,Cakes & pastries,E,33.0,2,Cinnamon Pecan Cheesecake,Keto Real,D,0.0,0.25,8.2
+سانت ميشيل كيك براوني,St Michel,Cakes & pastries,E,33.0,3,Strawberry Cheesecake,Keto Real,D,0.0,0.25,8.2
+Cakes Raisins,Bijou,Cakes & pastries,D,33.0,1,Tiramisù Cheesecake,Keto Real,C,0.0,0.25,8.2
+Cakes Raisins,Bijou,Cakes & pastries,D,33.0,2,Americana Cupcake Strawberry,Americana Cake,C,9.0,0.25,6.0
+Cakes Raisins,Bijou,Cakes & pastries,D,33.0,3,macarons chiffaru rigati,بركه السنابل,A,3.0,0.2,7.5
+Tooka Cocoa Sponge Layer Cake,Tooka,Cakes & pastries,D,32.18,1,Tiramisù Cheesecake,Keto Real,C,0.0,0.5,8.0
+Tooka Cocoa Sponge Layer Cake,Tooka,Cakes & pastries,D,32.18,2,Americana Cupcake Strawberry,Americana Cake,C,9.0,0.5,5.8
+Tooka Cocoa Sponge Layer Cake,Tooka,Cakes & pastries,D,32.18,3,TURKISH MILK CAKE,Grandiose Baker,C,16.2,0.25,4.0
+Tooka Caramel Sponge Cake,Tooka,Cakes & pastries,D,30.89,1,Tiramisù Cheesecake,Keto Real,C,0.0,0.5,7.7
+Tooka Caramel Sponge Cake,Tooka,Cakes & pastries,D,30.89,2,Americana Cupcake Strawberry,Americana Cake,C,9.0,0.5,5.5
+Tooka Caramel Sponge Cake,Tooka,Cakes & pastries,D,30.89,3,TURKISH MILK CAKE,Grandiose Baker,C,16.2,0.25,3.7
+VANILLA Cupcake,Lusine,Cakes & pastries,E,30.0,1,Chocolate Peanut Cheesecake,Keto Real,D,0.0,0.5,7.5
+VANILLA Cupcake,Lusine,Cakes & pastries,E,30.0,2,Cinnamon Pecan Cheesecake,Keto Real,D,0.0,0.5,7.5
+VANILLA Cupcake,Lusine,Cakes & pastries,E,30.0,3,Strawberry Cheesecake,Keto Real,D,0.0,0.5,7.5
+Fresh cake marble,Unknown,Cakes & pastries,E,29.0,1,Chocolate Peanut Cheesecake,Keto Real,D,0.0,0.5,7.2
+Fresh cake marble,Unknown,Cakes & pastries,E,29.0,2,Cinnamon Pecan Cheesecake,Keto Real,D,0.0,0.5,7.2
+Fresh cake marble,Unknown,Cakes & pastries,E,29.0,3,Strawberry Cheesecake,Keto Real,D,0.0,0.5,7.2
+zitronen muffin,Unknown,Cakes & pastries,E,29.0,1,Chocolate Peanut Cheesecake,Keto Real,D,0.0,0.33,7.2
+zitronen muffin,Unknown,Cakes & pastries,E,29.0,2,Cinnamon Pecan Cheesecake,Keto Real,D,0.0,0.33,7.2
+zitronen muffin,Unknown,Cakes & pastries,E,29.0,3,Strawberry Cheesecake,Keto Real,D,0.0,0.33,7.2
+Fruit Slice (Cake),Switz,Cakes & pastries,E,28.57,1,Strawberry Cheesecake,Keto Real,D,0.0,0.5,7.1
+Fruit Slice (Cake),Switz,Cakes & pastries,E,28.57,2,Tiramisù Cheesecake,Keto Real,C,0.0,0.5,7.1
+Fruit Slice (Cake),Switz,Cakes & pastries,E,28.57,3,Americana Cupcake Strawberry,Americana Cake,C,9.0,0.5,4.9
+Gobbles Double Choco Cake,Britannia,Cakes & pastries,E,28.0,1,TURKISH MILK CAKE,Grandiose Baker,C,16.2,0.25,3.0
+hazelnut tarts,Unknown,Cakes & pastries,D,27.7,1,macarons chiffaru rigati,بركه السنابل,A,3.0,0.2,6.2
+Carrot muffins,Co-op,Cakes & pastries,D,27.0,1,TURKISH MILK CAKE,Grandiose Baker,C,16.2,0.2,2.7
+Gobbles (Vanilla flavoured cake),Britannia,Cakes & pastries,E,26.67,1,TURKISH MILK CAKE,Grandiose Baker,C,16.2,0.25,2.6
+Pandoro,Galup,Cakes & pastries,E,24.6,1,"Courrone des rois, nature",Brioche Pasquier,D,14.0,0.6,2.7
+Pandoro,Galup,Cakes & pastries,E,24.6,2,Turkey & Cheddar Croissant,Diet Care,B,2.86,0.4,5.4
+Pandoro,Galup,Cakes & pastries,E,24.6,3,Plain croissant,Unknown,D,3.0,0.4,5.4
+Paluani,Paluani,Cakes & pastries,E,22.0,1,"Courrone des rois, nature",Brioche Pasquier,D,14.0,0.6,2.0
+Paluani,Paluani,Cakes & pastries,E,22.0,2,Turkey & Cheddar Croissant,Diet Care,B,2.86,0.4,4.8
+Paluani,Paluani,Cakes & pastries,E,22.0,3,Plain croissant,Unknown,D,3.0,0.4,4.8
+7Up طبقتين,Almarai,Cakes & pastries,E,20.0,1,Turkey & Cheddar Croissant,Diet Care,B,2.86,0.4,4.3
+7Up طبقتين,Almarai,Cakes & pastries,E,20.0,2,Plain croissant,Unknown,D,3.0,0.4,4.2
+7Up طبقتين,Almarai,Cakes & pastries,E,20.0,3,Cheese and Zaatar Croissant,L’usine,D,5.2,0.4,3.7
+Apple Puff,Unknown,Cakes & pastries,D,18.57,1,macarons chiffaru rigati,بركه السنابل,A,3.0,0.33,3.9
+Premium Fresh Fruit Swiss Roll,Lulu Bakery,Cakes & pastries,D,18.0,1,macarons chiffaru rigati,بركه السنابل,A,3.0,0.33,3.8
+Couronne des rois chocolat orange,Pasquier,Cakes & pastries,D,18.0,1,Turkey & Cheddar Croissant,Diet Care,B,2.86,0.5,3.8
+Jumbo Croissant,Unknown,Cakes & pastries,E,16.8,1,Plain croissant,Unknown,D,3.0,0.6,3.4
+Jumbo Croissant,Unknown,Cakes & pastries,E,16.8,2,Cheese and Zaatar Croissant,L’usine,D,5.2,0.6,2.9
+Jumbo Croissant,Unknown,Cakes & pastries,E,16.8,3,Butter and Zaatar Croissant,Almarai,D,6.0,0.6,2.7
+Chocolate croissant,Khuboos Sohar,Cakes & pastries,E,16.8,1,Plain croissant,Unknown,D,3.0,0.5,3.4
+Chocolate croissant,Khuboos Sohar,Cakes & pastries,E,16.8,2,Cheese and Zaatar Croissant,L’usine,D,5.2,0.5,2.9
+Chocolate croissant,Khuboos Sohar,Cakes & pastries,E,16.8,3,Butter and Zaatar Croissant,Almarai,D,6.0,0.5,2.7
+Chocolate Puff,L'usine,Cakes & pastries,E,15.71,1,CHEESE PUFF,Lusine,D,8.57,0.6,1.8
+Croissant,7 Days,Cakes & pastries,E,15.0,1,Cheese and Zaatar Croissant,L’usine,D,5.2,0.6,2.4
+Croissant,7 Days,Cakes & pastries,E,15.0,2,Butter and Zaatar Croissant,Almarai,D,6.0,0.6,2.2
+Croissant,7 Days,Cakes & pastries,E,15.0,3,Cheese croissant,L'usine,D,7.0,0.6,2.0
+Butter puff,Lusune,Cakes & pastries,E,15.0,1,macarons chiffaru rigati,بركه السنابل,A,3.0,0.33,3.0
+Jumbo Croissant,Atyab Bakery,Cakes & pastries,E,14.6,1,Cheese and Zaatar Croissant,L’usine,D,5.2,0.75,2.3
+Jumbo Croissant,Atyab Bakery,Cakes & pastries,E,14.6,2,Butter and Zaatar Croissant,Almarai,D,6.0,0.75,2.2
+Jumbo Croissant,Atyab Bakery,Cakes & pastries,E,14.6,3,Cheese croissant,L'usine,D,7.0,0.75,1.9
+7days croissant,7days,Cakes & pastries,E,14.55,1,Butter and Zaatar Croissant,Almarai,D,6.0,0.6,2.1
+7days croissant,7days,Cakes & pastries,E,14.55,2,Cheese croissant,L'usine,D,7.0,0.6,1.9
+Lusine,Unknown,Cakes & pastries,E,13.33,1,Cheese croissant,L'usine,D,7.0,1.0,1.6
+Crescents,Pillsbury,Cakes & pastries,E,10.71,1,Cheese croissant,L'usine,D,7.0,0.33,0.9
+Lollipop with popping powder candy,Unknown,Candies,E,83.33,1,Gummy Drops,:diablo,C,0.1,1.0,20.8
+Lollipop with popping powder candy,Unknown,Candies,E,83.33,2,Ice breakers sours - watermelon green apple,Hersheys,C,0.05,0.5,20.8
+Lollipop with popping powder candy,Unknown,Candies,E,83.33,3,Multivitamin + omega 3 orange & lemon flavour,Mothernest,C,4.5,0.5,19.7
+Gomutcho,Gomutcho,Candies,E,75.0,1,Worms,Haribo,D,47.9,1.0,6.8
+Gomutcho,Gomutcho,Candies,E,75.0,2,Gummy Bears,Dexters,D,44.0,0.67,7.8
+Gomutcho,Gomutcho,Candies,E,75.0,3,Gummy Drops,:diablo,C,0.1,0.5,18.7
+Spaghetti - sour bubble gum,Unknown,Candies,D,71.7,1,Gummy Drops,:diablo,C,0.1,0.33,17.9
+Spaghetti - sour bubble gum,Unknown,Candies,D,71.7,2,Ice breakers sours - watermelon green apple,Hersheys,C,0.05,0.25,17.9
+Spaghetti - sour bubble gum,Unknown,Candies,D,71.7,3,Multivitamin + omega 3 orange & lemon flavour,Mothernest,C,4.5,0.25,16.8
+Yogueta Fresa,Yogueta,Candies,E,66.7,1,Gummy Drops,:diablo,C,0.1,0.5,16.7
+Yogueta Fresa,Yogueta,Candies,E,66.7,2,Ice breakers sours - watermelon green apple,Hersheys,C,0.05,0.33,16.7
+Yogueta Fresa,Yogueta,Candies,E,66.7,3,Multivitamin + omega 3 orange & lemon flavour,Mothernest,C,4.5,0.33,15.6
+Roshen Fudgenta Candies 68pcs,Roshen Fudgenta,Candies,E,66.67,1,Gummy Drops,:diablo,C,0.1,0.33,16.6
+Roshen Fudgenta Candies 68pcs,Roshen Fudgenta,Candies,E,66.67,2,Ice breakers sours - watermelon green apple,Hersheys,C,0.05,0.25,16.7
+Roshen Fudgenta Candies 68pcs,Roshen Fudgenta,Candies,E,66.67,3,Vegan Chocolate snack Hack,Plaay,A,2.0,0.25,16.2
+Cappuccino Candy,Kopiko,Candies,E,65.1,1,Ice breakers sours - watermelon green apple,Hersheys,C,0.05,0.5,16.3
+Cappuccino Candy,Kopiko,Candies,E,65.1,2,Multivitamin + omega 3 orange & lemon flavour,Mothernest,C,4.5,0.5,15.2
+Cappuccino Candy,Kopiko,Candies,E,65.1,3,Gummy Bears,Dexters,D,44.0,0.33,5.3
+Smarties,Nestlé,Candies,E,64.4,1,Vegan Chocolate snack Hack,Plaay,A,2.0,0.25,15.6
+Fiori Caramel,Fiori,Candies,E,62.7,1,Skittles,Skittles,D,38.0,0.3,6.2
+Fiori Caramel,Fiori,Candies,E,62.7,2,Date bars,Deemah,D,38.0,0.3,6.2
+Maoam Joystixx,Maoam,Candies,E,59.0,1,Multivitamin + omega 3 orange & lemon flavour,Mothernest,C,4.5,0.33,13.6
+Dairy Milk (Daim),Cadbury,Candies,E,57.0,1,Quinoa Bar,Mindful Superfood,C,1.85,1.0,13.8
+Dairy Milk (Daim),Cadbury,Candies,E,57.0,2,kitkat two fingers,Kit Kat,D,22.68,0.5,8.6
+Dairy Milk (Daim),Cadbury,Candies,E,57.0,3,Dark Chocolate with Sea Salt*,Canterel,D,1.9,0.33,13.8
+M&M’s choco eggs,M&m's,Candies,E,56.0,1,Vegan Chocolate snack Hack,Plaay,A,2.0,0.25,13.5
+Praline,Primola,Candies,E,56.0,1,Vegan Chocolate snack Hack,Plaay,A,2.0,0.5,13.5
+Praline,Primola,Candies,E,56.0,2,Chocolate Date Almond Coconut,Chocodate,D,33.4,0.25,5.6
+Frutos,Columbia's,Candies,E,55.56,1,Fruit Pastilles,Rowntree's,C,17.3,0.2,9.6
+Snickers,Snickers,Candies,E,55.56,1,Quinoa Bar,Mindful Superfood,C,1.85,1.0,13.4
+Snickers,Snickers,Candies,E,55.56,2,kitkat two fingers,Kit Kat,D,22.68,0.5,8.2
+Snickers,Snickers,Candies,E,55.56,3,Dark Chocolate with Sea Salt*,Canterel,D,1.9,0.33,13.4
+alphonso mango drink,Sun Top,Candies,E,55.56,1,Quinoa Bar,Mindful Superfood,C,1.85,0.5,13.4
+alphonso mango drink,Sun Top,Candies,E,55.56,2,Dark Chocolate with Sea Salt*,Canterel,D,1.9,0.43,13.4
+alphonso mango drink,Sun Top,Candies,E,55.56,3,kitkat two fingers,Kit Kat,D,22.68,0.25,8.2
+SNICKERS,Unknown,Candies,E,55.56,1,Quinoa Bar,Mindful Superfood,C,1.85,1.0,13.4
+SNICKERS,Unknown,Candies,E,55.56,2,kitkat two fingers,Kit Kat,D,22.68,0.5,8.2
+SNICKERS,Unknown,Candies,E,55.56,3,Dark Chocolate with Sea Salt*,Canterel,D,1.9,0.33,13.4
+Kit Kat Chunky Gooey Caramel,Nestlé,Candies,E,54.58,1,Quinoa Bar,Mindful Superfood,C,1.85,0.67,13.2
+Kit Kat Chunky Gooey Caramel,Nestlé,Candies,E,54.58,2,kitkat two fingers,Kit Kat,D,22.68,0.33,8.0
+Kit Kat Chunky Gooey Caramel,Nestlé,Candies,E,54.58,3,Dark Chocolate with Sea Salt*,Canterel,D,1.9,0.29,13.2
+Assorted chocolate,Chocodate,Candies,E,54.54,1,Vegan Chocolate snack Hack,Plaay,A,2.0,0.5,13.1
+Assorted chocolate,Chocodate,Candies,E,54.54,2,Chocolate Date Almond Coconut,Chocodate,D,33.4,0.25,5.3
+Galaxy miniatures caramel,Galaxy,Candies,E,54.44,1,raspberry whole grain bar,Kind,D,18.0,0.25,9.1
+Bonbons confetti,Milka,Candies,E,54.0,1,Chocolate Date Almond Coconut,Chocodate,D,33.4,0.25,5.2
+Brown Chocolate Date Paste Stuffed with Almond,Arjoon,Candies,E,53.6,1,Chocolate Date Almond Coconut,Chocodate,D,33.4,0.25,5.1
+جالاكسي فلوت 2 صباع بالفانيليا,Galaxy,Candies,E,53.33,1,raspberry whole grain bar,Kind,D,18.0,0.33,8.8
+Milk chocolate covered date with Himalayan pink salt,Unknown,Candies,E,53.3,1,Chocolate Date Almond Coconut,Chocodate,D,33.4,0.33,5.0
+Dopingo peanut,Cici,Candies,E,52.1,1,raspberry whole grain bar,Kind,D,18.0,0.33,8.5
+minitures hazelnut,Kitkat,Candies,E,52.0,1,raspberry whole grain bar,Kind,D,18.0,0.33,8.5
+Snickers,Mars Wrigley Confectionery Uk Limited,Candies,E,51.8,1,raspberry whole grain bar,Kind,D,18.0,0.25,8.4
+Pita Chips Avec Thym,Soler's,Chips,E,46.6,1,Kettle cooked sea salt,Unknown,C,0.0,0.3,11.6
+Pita Chips Avec Thym,Soler's,Chips,E,46.6,2,Chips Oman Big,Unknown,D,0.0,0.3,11.6
+Pita Chips Avec Thym,Soler's,Chips,E,46.6,3,Sea Salt Rice Crackers,Gourmet Crackers,B,0.3,0.3,11.6
+Yogurt & Herbs,Lay's,Chips,D,8.67,1,Kettle cooked sea salt,Unknown,C,0.0,0.3,2.2
+Yogurt & Herbs,Lay's,Chips,D,8.67,2,Sea Salt Rice Crackers,Gourmet Crackers,B,0.3,0.3,2.1
+Yogurt & Herbs,Lay's,Chips,D,8.67,3,Mix Crackers,Snack,B,0.71,0.3,2.0
+fresh fash,Unknown,Chips,E,8.33,1,Nachips,Old El Paso,C,0.6,0.5,1.9
+fresh fash,Unknown,Chips,E,8.33,2,PRO PUFFS Cheese,Prolife,B,1.4,0.5,1.7
+fresh fash,Unknown,Chips,E,8.33,3,Tortilla chips,Old El Paso,C,1.5,0.5,1.7
+Lightly salted,Nice,Chips,D,8.0,1,Laysiu Salt,Lay's,C,0.2,1.0,2.0
+Lightly salted,Nice,Chips,D,8.0,2,Pro Puffs Spicy Flavor,Prolife,A,1.4,1.0,1.6
+Lightly salted,Nice,Chips,D,8.0,3,Baked Potato Chips Black Pepper,Lay's,C,5.58,1.0,0.6
+Sweet Chili And Red Pepper,Hectare’ss,Chips,D,8.0,1,Kettle cooked sea salt,Unknown,C,0.0,0.3,2.0
+Sweet Chili And Red Pepper,Hectare’ss,Chips,D,8.0,2,Sea Salt Rice Crackers,Gourmet Crackers,B,0.3,0.3,1.9
+Sweet Chili And Red Pepper,Hectare’ss,Chips,D,8.0,3,Mix Crackers,Snack,B,0.71,0.3,1.8
+مياو مياو مقرمشات بالروبيان 60 جرام,Miaow Miaow,Chips,E,7.67,1,Kettle cooked sea salt,Unknown,C,0.0,0.3,1.9
+مياو مياو مقرمشات بالروبيان 60 جرام,Miaow Miaow,Chips,E,7.67,2,Chips Oman Big,Unknown,D,0.0,0.3,1.9
+مياو مياو مقرمشات بالروبيان 60 جرام,Miaow Miaow,Chips,E,7.67,3,Sea Salt Rice Crackers,Gourmet Crackers,B,0.3,0.3,1.8
+Crispy Sticks,Qatar Pafki,Chips,E,7.38,1,Nachips,Old El Paso,C,0.6,1.0,1.7
+Crispy Sticks,Qatar Pafki,Chips,E,7.38,2,PRO PUFFS Cheese,Prolife,B,1.4,1.0,1.5
+Crispy Sticks,Qatar Pafki,Chips,E,7.38,3,Tortilla chips,Old El Paso,C,1.5,1.0,1.5
+Forno cheese,Lay's,Chips,D,7.33,1,Laysiu Salt,Lay's,C,0.2,0.71,1.8
+Forno cheese,Lay's,Chips,D,7.33,2,Pro Puffs Spicy Flavor,Prolife,A,1.4,0.71,1.5
+Forno cheese,Lay's,Chips,D,7.33,3,Nice tomato ketchup,Kitco,C,0.0,0.62,1.8
+Vegetable flavour garden chips,Pafki,Chips,E,7.0,1,Kettle cooked sea salt,Unknown,C,0.0,0.3,1.8
+Vegetable flavour garden chips,Pafki,Chips,E,7.0,2,Chips Oman Big,Unknown,D,0.0,0.3,1.8
+Vegetable flavour garden chips,Pafki,Chips,E,7.0,3,Sea Salt Rice Crackers,Gourmet Crackers,B,0.3,0.3,1.7
+Potato rings salt & vinegar flavour,Qatar Pafki,Chips,E,7.0,1,Nice tomato ketchup,Kitco,C,0.0,0.88,1.8
+Potato rings salt & vinegar flavour,Qatar Pafki,Chips,E,7.0,2,lays,Import,D,3.93,0.88,0.8
+Potato rings salt & vinegar flavour,Qatar Pafki,Chips,E,7.0,3,Nice Hot and Spicy,Kitco,D,1.6,0.78,1.4
+Jolliz Namkeen Harissa Chilli Potato Chips,Anand,Chips,E,7.0,1,Jolliz Namkeen Cream Onion Chips,Anand,D,3.6,1.0,0.8
+Jolliz Namkeen Harissa Chilli Potato Chips,Anand,Chips,E,7.0,2,Laysiu Salt,Lay's,C,0.2,0.86,1.7
+Jolliz Namkeen Harissa Chilli Potato Chips,Anand,Chips,E,7.0,3,Just crisps,Just Crisps,D,0.4,0.86,1.6
+Crispy Cheese rings,Crispy,Chips,E,6.67,1,red hot chilli,Stix,D,1.5,0.83,1.3
+Crispy Cheese rings,Crispy,Chips,E,6.67,2,Himalayan Pink Salt Thin-Cut Hand Cooked Potato Chips,Hunter Foods,D,0.0,0.67,1.7
+Crispy Cheese rings,Crispy,Chips,E,6.67,3,Salad snack,Nong Shim,B,0.3,0.67,1.6
+Doritos sweet chili,Doritos,Chips,E,5.67,1,Nachips,Old El Paso,C,0.6,1.0,1.3
+Doritos sweet chili,Doritos,Chips,E,5.67,2,PRO PUFFS Cheese,Prolife,B,1.4,1.0,1.1
+Doritos sweet chili,Doritos,Chips,E,5.67,3,Tortilla chips,Old El Paso,C,1.5,1.0,1.0
+Sour cream and onion crisps,Spinneysfood,Chips,E,5.6,1,Chips,Tyrells,C,0.92,1.0,1.2
+Sour cream and onion crisps,Spinneysfood,Chips,E,5.6,2,Kettle Cooked Salt & Vinegar Chips,Ok Snacks A/s,D,1.4,1.0,1.0
+Sour cream and onion crisps,Spinneysfood,Chips,E,5.6,3,Hand Cooked Potato Chips Sea Salt,Hunter's Gourmet,D,2.0,1.0,0.9
+Baked Potato Chips Black Pepper,Lay's,Chips,C,5.58,1,Pro Puffs Spicy Flavor,Prolife,A,1.4,1.0,1.0
+Baked Potato Chips Black Pepper,Lay's,Chips,C,5.58,2,Salad snack,Nong Shim,B,0.3,0.67,1.3
+Doritos,Doritos,Chips,E,5.5,1,Nachips,Old El Paso,C,0.6,1.0,1.2
+Doritos,Doritos,Chips,E,5.5,2,PRO PUFFS Cheese,Prolife,B,1.4,1.0,1.0
+Doritos,Doritos,Chips,E,5.5,3,Tortilla chips,Old El Paso,C,1.5,1.0,1.0
+Potato ripples crunch,Unknown,Chips,E,4.67,1,Laysiu Salt,Lay's,C,0.2,1.0,1.1
+Potato ripples crunch,Unknown,Chips,E,4.67,2,Just crisps,Just Crisps,D,0.4,1.0,1.1
+Potato ripples crunch,Unknown,Chips,E,4.67,3,Kitco stix lightly salted,Unknown,D,0.4,1.0,1.1
+Nice chilli natural potato chips,Kitco,Chips,E,4.44,1,Chips Oman Big,Unknown,D,0.0,0.3,1.1
+Nice chilli natural potato chips,Kitco,Chips,E,4.44,2,Mix Crackers,Snack,B,0.71,0.3,0.9
+Nice chilli natural potato chips,Kitco,Chips,E,4.44,3,Rice Popped Chips - Classic Salted,Brb,D,0.8,0.3,0.9
+Tomato ketchup chips,Lay's,Chips,E,4.17,1,Chips Oman Big,Unknown,D,0.0,0.3,1.0
+Tomato ketchup chips,Lay's,Chips,E,4.17,2,Mix Crackers,Snack,B,0.71,0.3,0.9
+Tomato ketchup chips,Lay's,Chips,E,4.17,3,Rice Popped Chips - Classic Salted,Brb,D,0.8,0.3,0.8
+Cassava Chips - Chili Lime,Fitbite,Chips,C,4.0,1,Mix Crackers,Snack,B,0.71,0.3,0.8
+lays,Import,Chips,D,3.93,1,Nice tomato ketchup,Kitco,C,0.0,1.0,1.0
+lays,Import,Chips,D,3.93,2,Laysiu Salt,Lay's,C,0.2,0.86,0.9
+lays,Import,Chips,D,3.93,3,Pro Puffs Spicy Flavor,Prolife,A,1.4,0.86,0.6
+Lay's ketchup,Unknown,Chips,E,3.81,1,Rice Popped Chips - Classic Salted,Brb,D,0.8,0.3,0.8
+Lay's ketchup,Unknown,Chips,E,3.81,2,Lay’s flamin hot,Unknown,C,0.9,0.3,0.7
+Lay's ketchup,Unknown,Chips,E,3.81,3,Sea Salt & Vinegar Chips Pro Chips,Pro Life,C,1.0,0.3,0.7
+Ghalia Corn Puff (tomato flavour),Nabil,Chips,E,3.75,1,Nachips,Old El Paso,C,0.6,0.5,0.8
+Ghalia Corn Puff (tomato flavour),Nabil,Chips,E,3.75,2,PRO PUFFS Cheese,Prolife,B,1.4,0.5,0.6
+Ghalia Corn Puff (tomato flavour),Nabil,Chips,E,3.75,3,Tortilla chips,Old El Paso,C,1.5,0.5,0.6
+doritos heat wave chili,Doritos,Chips,E,3.67,1,Prolife Pro Puffs Chili Lemon,Prolife,A,1.6,1.0,0.5
+doritos heat wave chili,Doritos,Chips,E,3.67,2,دوريتس: حار نار,Unknown,D,2.33,1.0,0.3
+doritos heat wave chili,Doritos,Chips,E,3.67,3,Doritos Nacho Cheese,Doritos,D,2.33,1.0,0.3
+Jolliz Namkeen Cream Onion Chips,Anand,Chips,D,3.6,1,Pro Puffs Spicy Flavor,Prolife,A,1.4,0.86,0.6
+Jolliz Namkeen Cream Onion Chips,Anand,Chips,D,3.6,2,Nice tomato ketchup,Kitco,C,0.0,0.75,0.9
+Jolliz Namkeen Cream Onion Chips,Anand,Chips,D,3.6,3,Chips,Tyrells,C,0.92,0.75,0.7
+Flamin Hot,Lay's®,Chips,D,3.57,1,Salad snack,Nong Shim,B,0.3,1.0,0.8
+Flamin Hot,Lay's®,Chips,D,3.57,2,Salad Chips,Mr.krisps,C,1.82,1.0,0.4
+Flamin Hot,Lay's®,Chips,D,3.57,3,Nice tomato ketchup,Kitco,C,0.0,0.57,0.9
+Potato Chips,Herr's,Chips,E,3.57,1,Himalayan Pink Salt Thin-Cut Hand Cooked Potato Chips,Hunter Foods,D,0.0,1.0,0.9
+Potato Chips,Herr's,Chips,E,3.57,2,Salad snack,Nong Shim,B,0.3,1.0,0.8
+Potato Chips,Herr's,Chips,E,3.57,3,Lay's salt,Lay's,D,0.87,1.0,0.7
+Doritod cheese flavor,20rs,Chips,E,3.5,1,Rice Popped Chips - Classic Salted,Brb,D,0.8,0.3,0.7
+Doritod cheese flavor,20rs,Chips,E,3.5,2,Lay’s flamin hot,Unknown,C,0.9,0.3,0.6
+Doritod cheese flavor,20rs,Chips,E,3.5,3,Sea Salt & Vinegar Chips Pro Chips,Pro Life,C,1.0,0.3,0.6
+Pringles ketchup,Unknown,Chips,D,3.5,1,Chips,Tyrells,C,0.92,0.71,0.6
+Pringles ketchup,Unknown,Chips,D,3.5,2,Crisps,Tyrrells,C,0.6,0.62,0.7
+Pringles ketchup,Unknown,Chips,D,3.5,3,Salad snack,Nong Shim,B,0.3,0.5,0.8
+roller coaster,Jack 'n Jill,Chips,E,3.33,1,Just crisps,Just Crisps,D,0.4,1.0,0.7
+roller coaster,Jack 'n Jill,Chips,E,3.33,2,Kitco stix lightly salted,Unknown,D,0.4,1.0,0.7
+roller coaster,Jack 'n Jill,Chips,E,3.33,3,Chips kettle cooked - Sea sat,Kitco,D,0.4,1.0,0.7
+Potato ripples crunch Sour cream & onion flavour,All Mudhish,Chips,D,3.33,1,Salad Chips,Mr.krisps,C,1.82,1.0,0.4
+Potato ripples crunch Sour cream & onion flavour,All Mudhish,Chips,D,3.33,2,Chips,Tyrells,C,0.92,0.57,0.6
+Potato ripples crunch Sour cream & onion flavour,All Mudhish,Chips,D,3.33,3,Crisps,Tyrrells,C,0.6,0.5,0.7
+Doritos extrême mexicano,Doritos,Chips,D,3.3,1,Lay’s flamin hot,Unknown,C,0.9,0.3,0.6
+Doritos extrême mexicano,Doritos,Chips,D,3.3,2,Sea Salt & Vinegar Chips Pro Chips,Pro Life,C,1.0,0.3,0.6
+Bites Frites,Kitco,Chips,E,3.2,1,Himalayan Pink Salt Thin-Cut Hand Cooked Potato Chips,Hunter Foods,D,0.0,1.0,0.8
+Bites Frites,Kitco,Chips,E,3.2,2,Lay's salt,Lay's,D,0.87,1.0,0.6
+Bites Frites,Kitco,Chips,E,3.2,3,Salad Chips,Mr.krisps,C,1.82,1.0,0.3
+Bugles,Kitco,Chips,E,3.2,1,Rice Popped Chips - Classic Salted,Brb,D,0.8,0.3,0.6
+Bugles,Kitco,Chips,E,3.2,2,Lay’s flamin hot,Unknown,C,0.9,0.3,0.6
+Bugles,Kitco,Chips,E,3.2,3,Sea Salt & Vinegar Chips Pro Chips,Pro Life,C,1.0,0.3,0.6
+Nacho Protein Chips,Quest,Chips,E,3.12,1,Himalayan Pink Salt Thin-Cut Hand Cooked Potato Chips,Hunter Foods,D,0.0,1.0,0.8
+Nacho Protein Chips,Quest,Chips,E,3.12,2,Lay's salt,Lay's,D,0.87,1.0,0.6
+Nacho Protein Chips,Quest,Chips,E,3.12,3,Salad Chips,Mr.krisps,C,1.82,1.0,0.3
+Cheese Nachos,Doritos,Chips,E,3.1,1,Prolife Pro Puffs Chili Lemon,Prolife,A,1.6,0.5,0.4
+Le Duxana Crispy Corn Chips,Sergio Food Industries,Chips,D,3.0,1,Prolife Pro Puffs Chili Lemon,Prolife,A,1.6,1.0,0.4
+Kitco Protein Puffs sweet chili,Kitco,Chips,E,3.0,1,Prolife Pro Puffs Chili Lemon,Prolife,A,1.6,1.0,0.4
+Chips birlik,Lay's,Chips,D,3.0,1,Chips,Tyrells,C,0.92,0.75,0.5
+Chips birlik,Lay's,Chips,D,3.0,2,Crisps,Tyrrells,C,0.6,0.67,0.6
+Chips birlik,Lay's,Chips,D,3.0,3,Salad Chips,Mr.krisps,C,1.82,0.57,0.3
+chips,Lay's,Chips,D,3.0,1,Lay’s flamin hot,Unknown,C,0.9,0.3,0.5
+chips,Lay's,Chips,D,3.0,2,Sea Salt & Vinegar Chips Pro Chips,Pro Life,C,1.0,0.3,0.5
+BUGLES,Bugles,Chips,E,2.6,1,Prolife Pro Puffs Chili Lemon,Prolife,A,1.6,0.25,0.2
+Lay's Chips (Chili),Lay's,Chips,E,2.38,1,Just crisps,Just Crisps,D,0.4,1.0,0.5
+Lay's Chips (Chili),Lay's,Chips,E,2.38,2,Kitco stix lightly salted,Unknown,D,0.4,1.0,0.5
+Lay's Chips (Chili),Lay's,Chips,E,2.38,3,Chips kettle cooked - Sea sat,Kitco,D,0.4,1.0,0.5
+Mickey Kruncheese,Mickey,Chips,E,2.3,1,Himalayan Pink Salt Thin-Cut Hand Cooked Potato Chips,Hunter Foods,D,0.0,1.0,0.6
+Mickey Kruncheese,Mickey,Chips,E,2.3,2,Lay's salt,Lay's,D,0.87,1.0,0.4
+Mickey Kruncheese,Mickey,Chips,E,2.3,3,red hot chilli,Stix,D,1.5,0.8,0.2
+Lay’s,Lay's,Chips,E,2.14,1,Just crisps,Just Crisps,D,0.4,0.83,0.4
+Lay’s,Lay's,Chips,E,2.14,2,Kitco stix lightly salted,Unknown,D,0.4,0.83,0.4
+Lay’s,Lay's,Chips,E,2.14,3,Chips kettle cooked - Sea sat,Kitco,D,0.4,0.83,0.4
+Sohar Chips,Al Jufair Food,Chips,E,2.0,1,Kitco stix lightly salted,Unknown,D,0.4,1.0,0.4
+Sohar Chips,Al Jufair Food,Chips,E,2.0,2,Chips kettle cooked - Sea sat,Kitco,D,0.4,1.0,0.4
+Sohar Chips,Al Jufair Food,Chips,E,2.0,3,Premium Potato Chips,Torres,D,0.5,1.0,0.4
+Potato Chips French Cheese,Lay's,Chips,D,2.0,1,Crisps,Tyrrells,C,0.6,0.75,0.4
+Potato chips,Unknown,Chips,D,2.0,1,Crisps,Tyrrells,C,0.6,0.5,0.4
+Hunters gourmet handcooked potato chips,Unknown,Chips,E,1.6,1,Chips kettle cooked - Sea sat,Kitco,D,0.4,1.0,0.3
+Hunters gourmet handcooked potato chips,Unknown,Chips,E,1.6,2,Premium Potato Chips,Torres,D,0.5,1.0,0.3
+Hunters gourmet handcooked potato chips,Unknown,Chips,E,1.6,3,Lay’s chips salt,Lay's,D,0.8,1.0,0.2
+Sweet and Sour Potato Crisps,Fico,Chips,E,1.2,1,Premium Potato Chips,Torres,D,0.5,0.67,0.2
+Sweet and Sour Potato Crisps,Fico,Chips,E,1.2,2,Lay’s chips salt,Lay's,D,0.8,0.67,0.1
+Maxx mexican chili,Lay's,Chips,E,1.2,1,Premium Potato Chips,Torres,D,0.5,1.0,0.2
+Maxx mexican chili,Lay's,Chips,E,1.2,2,Lay’s chips salt,Lay's,D,0.8,1.0,0.1
+Potato crisps - sweet & sour flavour,Fico,Chips,E,1.2,1,Premium Potato Chips,Torres,D,0.5,0.67,0.2
+Potato crisps - sweet & sour flavour,Fico,Chips,E,1.2,2,Lay’s chips salt,Lay's,D,0.8,0.67,0.1
+Tiny tobleron,Mondelez,Chocolate,E,58.3,1,milk chocolate,Well Naturally,D,3.1,0.5,13.8
+Nutella,Nutella,Chocolate,E,56.3,1,Keto Choc Nut Spread,Youthful Living,C,2.3,1.0,13.5
+Nutella,Nutella,Chocolate,E,56.3,2,Bundacao,Natureland,D,32.35,0.41,6.0
+Nutella,Ferrero,Chocolate,E,56.3,1,Keto Choc Nut Spread,Youthful Living,C,2.3,0.88,13.5
+Nutella,Ferrero,Chocolate,E,56.3,2,Bundacao,Natureland,D,32.35,0.39,6.0
+Nutella Hazelnut Spread with Cocoa,Nutella,Chocolate,E,56.3,1,Keto Choc Nut Spread,Youthful Living,C,2.3,1.0,13.5
+Nutella Hazelnut Spread with Cocoa,Nutella,Chocolate,E,56.3,2,Bundacao,Natureland,D,32.35,0.41,6.0
+Nutella 750g,Ferrero,Chocolate,E,56.0,1,Keto Choc Nut Spread,Youthful Living,C,2.3,1.0,13.4
+Nutella 750g,Ferrero,Chocolate,E,56.0,2,Bundacao,Natureland,D,32.35,0.41,5.9
+bubbly,Dairy Milk,Chocolate,E,54.0,1,Milk Chocolate,Choceur,D,11.0,1.0,10.8
+Chocolat au lait,Côte D'or,Chocolate,E,54.0,1,Milk Chocolate,Choceur,D,11.0,0.5,10.8
+Adore Milk Chocolate,Quanta,Chocolate,E,53.8,1,Milk Chocolate,Choceur,D,11.0,0.25,10.7
+Cocoa hazelnut spread,Gürsoy,Chocolate,E,53.2,1,Keto Choc Nut Spread,Youthful Living,C,2.3,1.0,12.7
+Cocoa hazelnut spread,Gürsoy,Chocolate,E,53.2,2,Bundacao,Natureland,D,32.35,0.41,5.2
+Schogetten Ciocolată cu lapte cu bucățele de biscuiți cu ovăz,Schogetten,Chocolate,E,53.0,1,Milk Chocolate,Choceur,D,11.0,1.0,10.5
+Dar chocolate,Chic N-choc,Chocolate,E,48.0,1,PLAAY SNAZZY SALTED CARAMEL 35 GM,Plaay,C,11.2,1.0,9.2
+Dar chocolate,Chic N-choc,Chocolate,E,48.0,2,Ketella Cream Dark,Keto Real,D,0.0,0.67,12.0
+Dar chocolate,Chic N-choc,Chocolate,E,48.0,3,Sugar free darkcandy bar,See’s Candies,D,0.0,0.5,12.0
+dark chocolate,Meybona,Chocolate,E,47.9,1,Sugar free darkcandy bar,See’s Candies,D,0.0,0.5,12.0
+dark chocolate,Meybona,Chocolate,E,47.9,2,Dark chocolate 65% Cocoa Fortified with B12,Tops,D,0.1,0.5,12.0
+dark chocolate,Meybona,Chocolate,E,47.9,3,Dark chocolate 65% Cocoa Fortified with iron and zinc,Tops,D,0.1,0.5,12.0
+Chocolate bourbon vanille,Aldi,Chocolate,E,46.0,1,White chocolate,Quickbury,D,9.0,1.0,9.2
+Blood orange,Unknown,Chocolate,E,43.0,1,Sugar free darkcandy bar,See’s Candies,D,0.0,1.0,10.8
+Blood orange,Unknown,Chocolate,E,43.0,2,Dark chocolate 65% Cocoa Fortified with B12,Tops,D,0.1,1.0,10.7
+Blood orange,Unknown,Chocolate,E,43.0,3,Dark chocolate 65% Cocoa Fortified with iron and zinc,Tops,D,0.1,1.0,10.7
+dark chocolate almond & sea salt,Barkthins,Chocolate,E,35.48,1,Sugar free darkcandy bar,See’s Candies,D,0.0,0.2,8.9
+dark chocolate almond & sea salt,Barkthins,Chocolate,E,35.48,2,Dark chocolate 65% Cocoa Fortified with B12,Tops,D,0.1,0.2,8.8
+dark chocolate almond & sea salt,Barkthins,Chocolate,E,35.48,3,Dark chocolate 65% Cocoa Fortified with iron and zinc,Tops,D,0.1,0.2,8.8
+Chocolate Negro Dark Chocolate,Dulcinea,Chocolate,E,29.0,1,Sugar free darkcandy bar,See’s Candies,D,0.0,0.5,7.2
+Chocolate Negro Dark Chocolate,Dulcinea,Chocolate,E,29.0,2,Dark chocolate 65% Cocoa Fortified with B12,Tops,D,0.1,0.5,7.2
+Chocolate Negro Dark Chocolate,Dulcinea,Chocolate,E,29.0,3,Dark chocolate 65% Cocoa Fortified with iron and zinc,Tops,D,0.1,0.5,7.2
+Organic 72 dark chocolate,Meybona,Chocolate,E,27.7,1,Dark chocolate 65% Cocoa Fortified with B12,Tops,D,0.1,1.0,6.9
+Organic 72 dark chocolate,Meybona,Chocolate,E,27.7,2,Dark chocolate 65% Cocoa Fortified with iron and zinc,Tops,D,0.1,1.0,6.9
+Organic 72 dark chocolate,Meybona,Chocolate,E,27.7,3,Dark Chocolate 70% Cocoa,Tops,D,0.1,1.0,6.9
+Fine Extra Dark Chocolate 70%,Ritter Sport,Chocolate,E,25.64,1,Dark Chocolate 70% Cocoa,Tops,D,0.1,1.0,6.4
+Fine Extra Dark Chocolate 70%,Ritter Sport,Chocolate,E,25.64,2,95% Dark Chocolate,Tops,D,0.1,1.0,6.4
+Fine Extra Dark Chocolate 70%,Ritter Sport,Chocolate,E,25.64,3,Dark chocolate 70% Cocoa Olive Leaf Extract,Tops,D,0.1,1.0,6.4
+"Dark Chocolate ""Millennium Favorite"" Brut 80%",Millennium,Chocolate,E,19.3,1,Dark Chocolate 70% Cocoa,Tops,D,0.1,1.0,4.8
+"Dark Chocolate ""Millennium Favorite"" Brut 80%",Millennium,Chocolate,E,19.3,2,95% Dark Chocolate,Tops,D,0.1,1.0,4.8
+"Dark Chocolate ""Millennium Favorite"" Brut 80%",Millennium,Chocolate,E,19.3,3,Dark chocolate 70% Cocoa Olive Leaf Extract,Tops,D,0.1,1.0,4.8
+Chocolate milk,Cafe Dolce,Flavoured milk,E,30.0,1,Premium Chocolate Milk (Full Cream),Kdd,C,5.0,1.0,6.2
+Chocolate milk,Cafe Dolce,Flavoured milk,E,30.0,2,Chocolate Milk full cream,Al Ain Farms,D,6.9,0.33,5.8
+Nada protein milk with real dates 320ml,Nada,Flavoured milk,E,15.0,1,Noug camel milk strawberry flavor lactose free,Noug,D,7.0,0.3,2.0
+Nada protein milk with real dates 320ml,Nada,Flavoured milk,E,15.0,2,حليب بروتين بالفانيلا,Almarai,D,8.8,0.3,1.5
+Saudia chocolate milk,Saudia,Flavoured milk,E,13.0,1,Premium Chocolate Milk (Full Cream),Kdd,C,5.0,1.0,2.0
+Saudia chocolate milk,Saudia,Flavoured milk,E,13.0,2,Chocolate Milk full cream,Al Ain Farms,D,6.9,0.33,1.5
+Baladna banana milk,Baladna,Flavoured milk,E,12.5,1,Noug camel milk strawberry flavor lactose free,Noug,D,7.0,0.3,1.4
+Double Chocolate Milk,Almarai,Flavoured milk,E,12.22,1,Chocolate Milk full cream,Al Ain Farms,D,6.9,1.0,1.3
+Double Chocolate Milk,Almarai,Flavoured milk,E,12.22,2,Fresh Milk Chocolate Flavour,Mazoon,D,4.5,0.67,1.9
+Double Chocolate Milk,Almarai,Flavoured milk,E,12.22,3,UHT FULL FAT STRAWBERRY MILK,Mazoon,D,6.2,0.67,1.5
+Strawberry Milk,Safa,Flavoured milk,E,12.2,1,Fresh Milk Chocolate Flavour,Mazoon,D,4.5,0.67,1.9
+Strawberry Milk,Safa,Flavoured milk,E,12.2,2,UHT FULL FAT STRAWBERRY MILK,Mazoon,D,6.2,0.67,1.5
+Strawberry Milk,Safa,Flavoured milk,E,12.2,3,Chocolate Flavour Milk,Mazoon,D,6.2,0.67,1.5
+Chocolate milk,Hayatna,Flavoured milk,E,12.0,1,Premium Chocolate Milk (Full Cream),Kdd,C,5.0,1.0,1.8
+Chocolate milk,Hayatna,Flavoured milk,E,12.0,2,Chocolate Milk full cream,Al Ain Farms,D,6.9,0.33,1.3
+Chocolate Milk,Unikai,Flavoured milk,E,12.0,1,Noug camel milk strawberry flavor lactose free,Noug,D,7.0,0.3,1.2
+Protein Milk Drink,Nadec,Flavoured milk,E,11.8,1,Premium Chocolate Milk (Full Cream),Kdd,C,5.0,0.25,1.7
+Strawberry Flavoured Milk,Almarai,Flavoured milk,E,11.8,1,Fresh Milk Chocolate Flavour,Mazoon,D,4.5,0.67,1.8
+Strawberry Flavoured Milk,Almarai,Flavoured milk,E,11.8,2,UHT FULL FAT STRAWBERRY MILK,Mazoon,D,6.2,0.67,1.4
+Strawberry Flavoured Milk,Almarai,Flavoured milk,E,11.8,3,Chocolate Flavour Milk,Mazoon,D,6.2,0.67,1.4
+KddChocolate Milk (Low Fat) 180 ml,Kdd,Flavoured milk,E,11.0,1,Chocolate Milk full cream,Al Ain Farms,D,6.9,0.6,1.0
+KddChocolate Milk (Low Fat) 180 ml,Kdd,Flavoured milk,E,11.0,2,Fresh Milk Chocolate Flavour,Mazoon,D,4.5,0.4,1.6
+KddChocolate Milk (Low Fat) 180 ml,Kdd,Flavoured milk,E,11.0,3,UHT FULL FAT STRAWBERRY MILK,Mazoon,D,6.2,0.4,1.2
+Chocolate Protein Milk,Almarai,Flavoured milk,E,10.5,1,Noug camel milk strawberry flavor lactose free,Noug,D,7.0,0.3,0.9
+Milk Chocolate,Lacnor,Flavoured milk,E,10.0,1,Premium Chocolate Milk (Full Cream),Kdd,C,5.0,1.0,1.2
+Chocolate Milk full cream,Al Ain Farms,Flavoured milk,D,6.9,1,Fresh Milk Strawberries Flavored,Mazoon,C,4.5,0.5,0.6
+Chocolate Milk full cream,Al Ain Farms,Flavoured milk,D,6.9,2,Cacaolat 0%,Cacaolat,C,4.1,0.27,0.7
+Baboo Cotton Candy,Saudia,Ice cream,E,33.6,1,Choloate Lover,Lohilo,A,4.1,0.3,7.4
+Baboo Cotton Candy,Saudia,Ice cream,E,33.6,2,بابو فانيلا,Saudia,C,9.0,0.3,6.2
+Baboo Cotton Candy,Saudia,Ice cream,E,33.6,3,Chocolate and toasted almond,Unknown,D,14.33,0.3,4.8
+Magnum Beyaz White,Magnum,Ice cream,E,31.0,1,Choloate Lover,Lohilo,A,4.1,0.3,6.7
+Magnum Beyaz White,Magnum,Ice cream,E,31.0,2,بابو فانيلا,Saudia,C,9.0,0.3,5.5
+Magnum Beyaz White,Magnum,Ice cream,E,31.0,3,Chocolate and toasted almond,Unknown,D,14.33,0.3,4.2
+Baboo (Vanilla Semi Ice Milk with Cone Biscuits),Saudia,Ice cream,E,30.4,1,Mini Vanila Cones,Almarai,D,17.5,0.67,3.2
+Baboo (Vanilla Semi Ice Milk with Cone Biscuits),Saudia,Ice cream,E,30.4,2,Coconutello,London Dairy,D,17.0,0.33,3.4
+Baboo (Chocolate Semi Ice Milk with Cone Biscuits),Saudia,Ice cream,E,30.4,1,Mini Vanila Cones,Almarai,D,17.5,1.0,3.2
+Baboo (Chocolate Semi Ice Milk with Cone Biscuits),Saudia,Ice cream,E,30.4,2,Coconutello,London Dairy,D,17.0,0.5,3.4
+Sensations Almond Belgian Chocolate,Saudia,Ice cream,E,29.17,1,Choloate Lover,Lohilo,A,4.1,0.3,6.3
+Sensations Almond Belgian Chocolate,Saudia,Ice cream,E,29.17,2,بابو فانيلا,Saudia,C,9.0,0.3,5.0
+Sensations Almond Belgian Chocolate,Saudia,Ice cream,E,29.17,3,Chocolate and toasted almond,Unknown,D,14.33,0.3,3.7
+Ice cream,Kdd,Ice cream,E,28.57,1,Coconutello,London Dairy,D,17.0,1.0,2.9
+Ice cream,Kdd,Ice cream,E,28.57,2,Mini Vanila Cones,Almarai,D,17.5,0.5,2.8
+Maharaja Kulfi,Kwality,Ice cream,E,28.0,1,Choloate Lover,Lohilo,A,4.1,0.3,6.0
+Maharaja Kulfi,Kwality,Ice cream,E,28.0,2,بابو فانيلا,Saudia,C,9.0,0.3,4.8
+Maharaja Kulfi,Kwality,Ice cream,E,28.0,3,Chocolate and toasted almond,Unknown,D,14.33,0.3,3.4
+Sensations White Chocolate Almond,Saudia,Ice cream,E,26.39,1,Choloate Lover,Lohilo,A,4.1,0.3,5.6
+Sensations White Chocolate Almond,Saudia,Ice cream,E,26.39,2,بابو فانيلا,Saudia,C,9.0,0.3,4.3
+Sensations White Chocolate Almond,Saudia,Ice cream,E,26.39,3,Chocolate and toasted almond,Unknown,D,14.33,0.3,3.0
+More,Saudia,Ice cream,E,26.23,1,Cookies & Cream,London Dairy,C,15.0,0.3,2.8
+More,Saudia,Ice cream,E,26.23,2,Almond Ice Cream,Galaxy,D,16.0,0.3,2.6
+Ice cream sandwich Round,Unknown,Ice cream,D,25.0,1,Cookies & Cream,London Dairy,C,15.0,0.3,2.5
+Carte D'or Les Suprêmes Glace Parfait Chocolat 130ml x2,Carte D'or,Ice cream,E,24.0,1,Cookies & Cream,London Dairy,C,15.0,0.3,2.2
+Carte D'or Les Suprêmes Glace Parfait Chocolat 130ml x2,Carte D'or,Ice cream,E,24.0,2,Almond Ice Cream,Galaxy,D,16.0,0.3,2.0
+KitKat stick,Nestlé,Ice cream,E,23.33,1,Cookies & Cream,London Dairy,C,15.0,0.3,2.1
+KitKat stick,Nestlé,Ice cream,E,23.33,2,Almond Ice Cream,Galaxy,D,16.0,0.3,1.8
+Strawberry Ice Cream,Del Monte,Ice cream,D,23.3,1,Caramel Honeycomb Candy Ice Cream,Baskin Robbins,C,14.0,1.0,2.3
+Strawberry Ice Cream,Del Monte,Ice cream,D,23.3,2,Chocolate,Almarai,C,14.2,0.5,2.3
+Vanilla Ice Cream,Kdd,Ice cream,D,23.08,1,Caramel Honeycomb Candy Ice Cream,Baskin Robbins,C,14.0,0.5,2.3
+Vanilla Ice Cream,Kdd,Ice cream,D,23.08,2,Chocolate,Almarai,C,14.2,0.33,2.2
+Chocolate Ice Cream,Kdd,Ice cream,D,22.64,1,Chocolate,Almarai,C,14.2,1.0,2.1
+Chocolate Ice Cream,Kdd,Ice cream,D,22.64,2,Caramel Honeycomb Candy Ice Cream,Baskin Robbins,C,14.0,0.5,2.2
+Ice cream 🍦 SANDWICH STRAWE RRY,السعوديه,Ice cream,D,22.0,1,Cookies & Cream,London Dairy,C,15.0,0.3,1.8
+Salted Caramel Ice Cream,Del Monte,Ice cream,D,21.8,1,Caramel Honeycomb Candy Ice Cream,Baskin Robbins,C,14.0,1.0,2.0
+Salted Caramel Ice Cream,Del Monte,Ice cream,D,21.8,2,Chocolate,Almarai,C,14.2,0.5,1.9
+Double Chocolate Chip Ice Cream,Del Monte,Ice cream,D,21.7,1,Caramel Honeycomb Candy Ice Cream,Baskin Robbins,C,14.0,1.0,1.9
+Double Chocolate Chip Ice Cream,Del Monte,Ice cream,D,21.7,2,Chocolate,Almarai,C,14.2,0.5,1.9
+Pomegranate with White Grape Nectar,Unknown,Juices,E,15.0,1,Rhodes Guava Juice blend,Rhodes Quality,B,0.5,0.3,3.6
+Pomegranate with White Grape Nectar,Unknown,Juices,E,15.0,2,Tumeric Root Shot,Barakat,B,5.0,0.3,2.5
+Pomegranate with White Grape Nectar,Unknown,Juices,E,15.0,3,المراعي عصير ليمون,Almarai,C,9.33,0.3,1.4
+lacnor mix berry 1L,Nfpc,Juices,E,14.7,1,Rhodes Guava Juice blend,Rhodes Quality,B,0.5,0.3,3.6
+lacnor mix berry 1L,Nfpc,Juices,E,14.7,2,Tumeric Root Shot,Barakat,B,5.0,0.3,2.4
+lacnor mix berry 1L,Nfpc,Juices,E,14.7,3,المراعي عصير ليمون,Almarai,C,9.33,0.3,1.3
+Kdd Mango with White grape Nectar,Kdd,Juices,E,14.0,1,Orange juice,Almarai,D,9.33,0.33,1.2
+Chaunsa Mango Fruit Drink,Freshtime,Juices,E,13.33,1,Pur jus citron vert,Jardin Biologique,B,1.7,0.33,2.9
+Chaunsa Mango Fruit Drink,Freshtime,Juices,E,13.33,2,mongu mongu,Mogu Mogu,D,7.81,0.33,1.4
+Chaunsa Mango Fruit Drink,Freshtime,Juices,E,13.33,3,Lemon Juice Substitute,Yamama,B,0.0,0.25,3.3
+Pineapple juice,Unknown,Juices,E,13.27,1,Pur jus citron vert,Jardin Biologique,B,1.7,0.5,2.9
+Pineapple juice,Unknown,Juices,E,13.27,2,mongu mongu,Mogu Mogu,D,7.81,0.5,1.4
+Pineapple juice,Unknown,Juices,E,13.27,3,Lemon Juice Substitute,Yamama,B,0.0,0.33,3.3
+Vimto Fruit Cordial,Vimtoaujan Soft Drinks Industriesnichols,Juices,D,12.3,1,Rhodes Guava Juice blend,Rhodes Quality,B,0.5,0.3,3.0
+Vimto Fruit Cordial,Vimtoaujan Soft Drinks Industriesnichols,Juices,D,12.3,2,Tumeric Root Shot,Barakat,B,5.0,0.3,1.8
+Apple juice,Unknown,Juices,D,12.0,1,Apple Juice Drink,Morrisons,C,4.4,0.67,1.9
+Apple juice,Unknown,Juices,D,12.0,2,Pur jus citron vert,Jardin Biologique,B,1.7,0.33,2.6
+Apple juice,Unknown,Juices,D,12.0,3,Lemon Juice Substitute,Yamama,B,0.0,0.25,3.0
+عصير تفاح,Mazoon,Juices,E,12.0,1,Apple Juice Drink,Morrisons,C,4.4,0.67,1.9
+Al Rabie Orange drink 250 ml,Al Rabie,Juices,E,12.0,1,Zumo Juver Disfruta Melocot. 1L,Juver,B,3.8,0.33,2.0
+Guava Nectar,Kdd,Juices,E,12.0,1,Rhodes Guava Juice blend,Rhodes Quality,B,0.5,0.3,2.9
+Guava Nectar,Kdd,Juices,E,12.0,2,Tumeric Root Shot,Barakat,B,5.0,0.3,1.8
+Orange juice,Unknown,Juices,D,12.0,1,Pur jus citron vert,Jardin Biologique,B,1.7,0.5,2.6
+Orange juice,Unknown,Juices,D,12.0,2,Just Orange. Rise And Shine,Barakat,C,8.0,0.5,1.0
+Orange juice,Unknown,Juices,D,12.0,3,Red Orange Juice,Unknown,C,8.25,0.5,0.9
+Al rabie apple juice 185ml,Alrabie,Juices,E,12.0,1,Apple Juice Drink,Morrisons,C,4.4,0.4,1.9
+Al rabie apple juice 185ml,Alrabie,Juices,E,12.0,2,Pur jus citron vert,Jardin Biologique,B,1.7,0.2,2.6
+Al rabie apple juice 185ml,Alrabie,Juices,E,12.0,3,mongu mongu,Mogu Mogu,D,7.81,0.2,1.0
+The original orange drink,Al Rabie,Juices,E,12.0,1,Zumo Juver Disfruta Melocot. 1L,Juver,B,3.8,0.33,2.0
+Fruit Cocktail Nectar,Al Rabie,Juices,E,12.0,1,Zumo Juver Disfruta Melocot. 1L,Juver,B,3.8,0.5,2.0
+nadec orange 1.4,Nadec,Juices,D,11.9,1,Rhodes Guava Juice blend,Rhodes Quality,B,0.5,0.3,2.8
+nadec orange 1.4,Nadec,Juices,D,11.9,2,Tumeric Root Shot,Barakat,B,5.0,0.3,1.7
+Grenade juice,Almarai,Juices,D,11.8,1,Lemon Juice Substitute,Yamama,B,0.0,0.33,3.0
+Grenade juice,Almarai,Juices,D,11.8,2,Jus de citron,Monoprix Bio,B,1.5,0.33,2.6
+Grenade juice,Almarai,Juices,D,11.8,3,Organic pomegranate juice,Granti,C,0.02,0.25,2.9
+Ceres Pinapple,Ceres,Juices,E,11.5,1,mongu mongu,Mogu Mogu,D,7.81,0.33,0.9
+Ceres Pinapple,Ceres,Juices,E,11.5,2,Lemon Juice Substitute,Yamama,B,0.0,0.25,2.9
+Ceres Pinapple,Ceres,Juices,E,11.5,3,Jus de citron,Monoprix Bio,B,1.5,0.25,2.5
+Kean juice orange,Unknown,Juices,D,11.3,1,Jus de citron,Monoprix Bio,B,1.5,0.33,2.4
+عصير تفاح,Almarai,Juices,E,11.11,1,Apple Juice Drink,Morrisons,C,4.4,1.0,1.7
+Capri-Sun Strawberry Nectar,Capri-sun,Juices,C,11.0,1,Jus de citron,Monoprix Bio,B,1.5,0.25,2.4
+Capri-Sun Strawberry Nectar,Capri-sun,Juices,C,11.0,2,Zumo Juver Disfruta Melocot. 1L,Juver,B,3.8,0.25,1.8
+Apple Juice,Raw'a,Juices,E,11.0,1,Apple Juice Drink,Morrisons,C,4.4,0.5,1.6
+KDD Juice Cocktail,Kdd,Juices,E,11.0,1,Jus de citron,Monoprix Bio,B,1.5,0.5,2.4
+Apple Nectar and Mixed Fruits,Raw'a,Juices,E,10.0,1,Zumo Juver Disfruta Melocot. 1L,Juver,B,3.8,0.33,1.6
+Lemonade,Unknown,Soft drinks,E,27.0,1,Slimline Lemonade,Schweppes,C,0.0,0.5,6.8
+Lemonade,Unknown,Soft drinks,E,27.0,2,7up,Seven-up,C,5.0,0.5,5.5
+Rita,Unknown,Soft drinks,E,15.0,1,Rita candy sparkling drink,Rita,D,6.17,0.86,2.2
+Rita,Unknown,Soft drinks,E,15.0,2,Yemonade,Salaam Cola,D,4.9,0.67,2.5
+Rita,Unknown,Soft drinks,E,15.0,3,Lemonade,Waitrose,C,4.5,0.62,2.6
+Kinza Carbonated Drink (Pomegranate) 250ml,Kinza,Soft drinks,E,14.8,1,Rita candy sparkling drink,Rita,D,6.17,0.86,2.2
+Kinza Carbonated Drink (Pomegranate) 250ml,Kinza,Soft drinks,E,14.8,2,Yemonade,Salaam Cola,D,4.9,0.67,2.5
+Kinza Carbonated Drink (Pomegranate) 250ml,Kinza,Soft drinks,E,14.8,3,Lemonade,Waitrose,C,4.5,0.62,2.6
+Fifa,Unknown,Soft drinks,E,14.7,1,7up zero sugar,Unknown,B,0.0,0.3,3.7
+Fifa,Unknown,Soft drinks,E,14.7,2,Root Beer,Thirsty Buddha,C,0.56,0.3,3.5
+Fifa,Unknown,Soft drinks,E,14.7,3,Pomegranate Ginger & Lime,Green Mocktails,B,0.8,0.3,3.5
+Paper Boat tasty apple,Paper Boat,Soft drinks,E,14.6,1,Lemonade,Waitrose,C,4.5,0.62,2.5
+Paper Boat tasty apple,Paper Boat,Soft drinks,E,14.6,2,Rita candy sparkling drink,Rita,D,6.17,0.62,2.1
+Paper Boat tasty apple,Paper Boat,Soft drinks,E,14.6,3,Yemonade,Salaam Cola,D,4.9,0.5,2.4
+Kinza Orange Carbonated Drink,Kinza,Soft drinks,E,14.0,1,Mojito Lemon Mint,7up,B,0.0,0.5,3.5
+Kinza Orange Carbonated Drink,Kinza,Soft drinks,E,14.0,2,Sprite 330 ml,Sprite,C,4.55,0.42,2.4
+Kinza Orange Carbonated Drink,Kinza,Soft drinks,E,14.0,3,Lemonade,Waitrose,C,4.5,0.38,2.4
+Mirinda orange,Mirinda,Soft drinks,E,14.0,1,Lemonade,Waitrose,C,4.5,0.43,2.4
+Mirinda orange,Mirinda,Soft drinks,E,14.0,2,Rita candy sparkling drink,Rita,D,6.17,0.43,2.0
+Mirinda orange,Mirinda,Soft drinks,E,14.0,3,Mojito Lemon Mint,7up,B,0.0,0.38,3.5
+Suntop orange 125ml,Sun Top,Soft drinks,E,14.0,1,Mojito Lemon Mint,7up,B,0.0,0.56,3.5
+Suntop orange 125ml,Sun Top,Soft drinks,E,14.0,2,Sprite 330 ml,Sprite,C,4.55,0.46,2.4
+Suntop orange 125ml,Sun Top,Soft drinks,E,14.0,3,Rita candy sparkling drink,Rita,D,6.17,0.44,2.0
+Lacnor Lemonade,Lacnor,Soft drinks,E,13.67,1,Slimline Lemonade,Schweppes,C,0.0,0.25,3.4
+Carbonated Drink (Citrus),Kinza,Soft drinks,E,13.0,1,Yemonade,Salaam Cola,D,4.9,0.78,2.0
+Carbonated Drink (Citrus),Kinza,Soft drinks,E,13.0,2,Mojito Lemon Mint,7up,B,0.0,0.36,3.2
+Carbonated Drink (Citrus),Kinza,Soft drinks,E,13.0,3,Sprite 330 ml,Sprite,C,4.55,0.33,2.1
+Malt Beverage Pomegranate Flavor,Barbican,Soft drinks,E,12.6,1,7up,Seven-up,C,5.0,0.5,1.9
+Malt Beverage Pomegranate Flavor,Barbican,Soft drinks,E,12.6,2,Slimline Lemonade,Schweppes,C,0.0,0.2,3.2
+Mountain Dew 330,Unknown,Soft drinks,E,12.0,1,7up zero sugar,Unknown,B,0.0,0.3,3.0
+Mountain Dew 330,Unknown,Soft drinks,E,12.0,2,Root Beer,Thirsty Buddha,C,0.56,0.3,2.9
+Mountain Dew 330,Unknown,Soft drinks,E,12.0,3,Pomegranate Ginger & Lime,Green Mocktails,B,0.8,0.3,2.8
+Miranda citrus,Pepsico. Inc,Soft drinks,E,12.0,1,7up,Seven-up,C,5.0,0.2,1.8
+Mountain dew,Mountain Dew,Soft drinks,E,12.0,1,7up zero sugar,Unknown,B,0.0,0.3,3.0
+Mountain dew,Mountain Dew,Soft drinks,E,12.0,2,Root Beer,Thirsty Buddha,C,0.56,0.3,2.9
+Mountain dew,Mountain Dew,Soft drinks,E,12.0,3,Pomegranate Ginger & Lime,Green Mocktails,B,0.8,0.3,2.8
+Orange Flavoured (Carbonated Beverage),Campa,Soft drinks,E,12.0,1,7up,Seven-up,C,5.0,0.33,1.8
+Orange Flavoured (Carbonated Beverage),Campa,Soft drinks,E,12.0,2,Yemonade,Salaam Cola,D,4.9,0.22,1.8
+Orango (Orange),Star,Soft drinks,E,11.67,1,Mojito Lemon Mint,7up,B,0.0,0.42,2.9
+Orango (Orange),Star,Soft drinks,E,11.67,2,Sprite 330 ml,Sprite,C,4.55,0.38,1.8
+Orango (Orange),Star,Soft drinks,E,11.67,3,Seven Up,7 Up,B,0.0,0.25,2.9
+Carbonated Drink (Cola),Kinza,Soft drinks,E,11.0,1,7up,Seven-up,C,5.0,0.5,1.5
+Carbonated Drink (Cola),Kinza,Soft drinks,E,11.0,2,green cola,Green,B,0.0,0.33,2.8
+Carbonated Drink (Cola),Kinza,Soft drinks,E,11.0,3,Cocacola original taste,Coca Cola,B,0.0,0.33,2.8
+Kinza cola,Kinza,Soft drinks,E,11.0,1,7up zero sugar,Unknown,B,0.0,0.3,2.8
+Kinza cola,Kinza,Soft drinks,E,11.0,2,Root Beer,Thirsty Buddha,C,0.56,0.3,2.6
+Kinza cola,Kinza,Soft drinks,E,11.0,3,Pomegranate Ginger & Lime,Green Mocktails,B,0.8,0.3,2.6
+Carbonated Drink (Lemon),Kinza,Soft drinks,E,11.0,1,Slimline Lemonade,Schweppes,C,0.0,0.2,2.8
+7up,Unknown,Soft drinks,E,11.0,1,7up zero sugar,Unknown,B,0.0,0.3,2.8
+7up,Unknown,Soft drinks,E,11.0,2,Root Beer,Thirsty Buddha,C,0.56,0.3,2.6
+7up,Unknown,Soft drinks,E,11.0,3,Pomegranate Ginger & Lime,Green Mocktails,B,0.8,0.3,2.6
+Pepsi,Pepsi,Soft drinks,E,11.0,1,Effect guava massive energy drink 250ml,Effect,D,7.2,0.3,1.0
+Pepsi,Pepsi,Soft drinks,E,11.0,2,Cola,Kinza,D,7.2,0.3,1.0
+Pepsi,Pepsi,Soft drinks,E,11.0,1,green cola,Green,B,0.0,0.33,2.8
+Pepsi,Pepsi,Soft drinks,E,11.0,2,Cocacola original taste,Coca Cola,B,0.0,0.33,2.8
+Pepsi,Pepsi,Soft drinks,E,11.0,3,Slimline Lemonade,Schweppes,C,0.0,0.2,2.8
+Fizz Carbonated Drink (Orange),Dandy,Soft drinks,E,11.0,1,green cola,Green,B,0.0,0.25,2.8
+Fizz Carbonated Drink (Orange),Dandy,Soft drinks,E,11.0,2,Cocacola original taste,Coca Cola,B,0.0,0.25,2.8
+Fizz Carbonated Drink (Orange),Dandy,Soft drinks,E,11.0,3,Miranda citrus,Mirinda,C,3.64,0.25,1.8
+7up,7 Up,Soft drinks,E,11.0,1,Sprite 330 ml,Sprite,C,4.55,0.67,1.6
+7up,7 Up,Soft drinks,E,11.0,2,Seven Up,7 Up,B,0.0,0.5,2.8
+Pepsi,Pepsi,Soft drinks,E,11.0,1,Miranda citrus,Mirinda,C,3.64,0.4,1.8
+Pepsi NRB 250 ml,Unknown,Soft drinks,E,11.0,1,green cola,Green,B,0.0,0.5,2.8
+Pepsi NRB 250 ml,Unknown,Soft drinks,E,11.0,2,Cocacola original taste,Coca Cola,B,0.0,0.5,2.8
+Pepsi NRB 250 ml,Unknown,Soft drinks,E,11.0,3,Coca-Cola Zero Sugar,Coca Cola,C,0.0,0.2,2.8
+Pepsi,Unknown,Soft drinks,E,11.0,1,green cola,Green,B,0.0,0.5,2.8
+Pepsi,Unknown,Soft drinks,E,11.0,2,Cocacola original taste,Coca Cola,B,0.0,0.5,2.8
+Pepsi,Unknown,Soft drinks,E,11.0,3,Coca-Cola Zero Sugar,Coca Cola,C,0.0,0.2,2.8
+ALSI COLA,Alesayibco,Soft drinks,E,9.1,1,Miranda citrus,Mirinda,C,3.64,0.25,1.4
+Milaf cola,Milaf,Soft drinks,D,8.0,1,Coca-Cola Zero Sugar,Coca Cola,C,0.0,0.2,2.0
+Milaf cola,Milaf,Soft drinks,D,8.0,2,Coca cola zero,Coke,B,0.0,0.2,2.0
+Milaf cola,Milaf,Soft drinks,D,8.0,3,RC Cola No Sugar,Rc,B,0.0,0.2,2.0
+Sting Red 250 ml,Sting,Soft drinks,E,6.6,1,Seven Up,7 Up,B,0.0,0.2,1.6
+Rita candy sparkling drink,Rita,Soft drinks,D,6.17,1,Seven Up,7 Up,B,0.0,0.23,1.5
+Yemonade,Salaam Cola,Soft drinks,D,4.9,1,Seven Up,7 Up,B,0.0,0.29,1.2
+Sprite 330 ml,Sprite,Soft drinks,C,4.55,1,Coca cola zero,Coke,B,0.0,0.21,1.1
+Sprite 330 ml,Sprite,Soft drinks,C,4.55,2,RC Cola No Sugar,Rc,B,0.0,0.21,1.1
+Coca-Cola Zero Sugar,Coca Cola,Soft drinks,C,0.0,1,Coca cola zero,Coke,B,0.0,1.0,0.0
+Coca-Cola Zero Sugar,Coca Cola,Soft drinks,C,0.0,2,RC Cola No Sugar,Rc,B,0.0,1.0,0.0
+Diet cola kinza,Kinza,Soft drinks,C,0.0,1,Coca cola zero,Coke,B,0.0,1.0,0.0
+Diet cola kinza,Kinza,Soft drinks,C,0.0,2,RC Cola No Sugar,Rc,B,0.0,1.0,0.0
+Kinza lemon zero sugar,Kinza,Soft drinks,C,0.0,1,Coca cola zero,Coke,B,0.0,0.6,0.0
+Kinza lemon zero sugar,Kinza,Soft drinks,C,0.0,2,RC Cola No Sugar,Rc,B,0.0,0.6,0.0
+حلا فراولة,Almarai,Yogurts,C,17.0,1,Fresh Laban,Mazoon,A,0.0,0.3,4.2
+حلا فراولة,Almarai,Yogurts,C,17.0,2,Arla protein strawberry,Arla Foods,A,3.3,0.3,3.4
+حلا فراولة,Almarai,Yogurts,C,17.0,3,زبادي يو برو توت,Yopro,A,3.33,0.3,3.4
+اكتيفيا زبادي مخفوق توت وفراوله,Activia,Yogurts,C,16.4,1,Fresh Laban,Mazoon,A,0.0,0.3,4.1
+اكتيفيا زبادي مخفوق توت وفراوله,Activia,Yogurts,C,16.4,2,Arla protein strawberry,Arla Foods,A,3.3,0.3,3.3
+اكتيفيا زبادي مخفوق توت وفراوله,Activia,Yogurts,C,16.4,3,زبادي يو برو توت,Yopro,A,3.33,0.3,3.3
+ALMARAI FRESH LABAN STRAWBERRY 180ML,Al Marai,Yogurts,E,16.11,1,Actimel activate,Actimel,B,3.9,0.86,3.1
+ALMARAI FRESH LABAN STRAWBERRY 180ML,Al Marai,Yogurts,E,16.11,2,اكتيفيا لبن قليل الدسم,Activia,B,0.0,0.75,4.0
+ALMARAI FRESH LABAN STRAWBERRY 180ML,Al Marai,Yogurts,E,16.11,3,Laban up,Abu Dhabi,B,0.0,0.75,4.0
+لبن المراعي مانجو,Almarai,Yogurts,C,15.59,1,Fresh Laban,Mazoon,A,0.0,0.3,3.9
+لبن المراعي مانجو,Almarai,Yogurts,C,15.59,2,Arla protein strawberry,Arla Foods,A,3.3,0.3,3.1
+لبن المراعي مانجو,Almarai,Yogurts,C,15.59,3,زبادي يو برو توت,Yopro,A,3.33,0.3,3.1
+Nadec greek yogurt strawberry,Unknown,Yogurts,C,15.3,1,Authentic Greek Yoghurt,Dodoni,A,0.0,1.0,3.8
+Nadec greek yogurt strawberry,Unknown,Yogurts,C,15.3,2,Greek Yogurt,بلدي,A,0.0,1.0,3.8
+Nadec greek yogurt strawberry,Unknown,Yogurts,C,15.3,3,FAGE Total 0%,Fage,A,3.0,1.0,3.1
+Greek Yogurt Full Cream,Hayatna,Yogurts,C,15.0,1,Authentic Greek Yoghurt,Dodoni,A,0.0,1.0,3.8
+Greek Yogurt Full Cream,Hayatna,Yogurts,C,15.0,2,Greek Yogurt,بلدي,A,0.0,1.0,3.8
+Greek Yogurt Full Cream,Hayatna,Yogurts,C,15.0,3,FAGE Total 0%,Fage,A,3.0,1.0,3.0
+ALMARAI MANGO LABAN 180ML,Almarai,Yogurts,C,14.9,1,Fresh Laban,Mazoon,A,0.0,0.3,3.7
+ALMARAI MANGO LABAN 180ML,Almarai,Yogurts,C,14.9,2,Arla protein strawberry,Arla Foods,A,3.3,0.3,2.9
+ALMARAI MANGO LABAN 180ML,Almarai,Yogurts,C,14.9,3,زبادي يو برو توت,Yopro,A,3.33,0.3,2.9
+Greek Style Yoghurt Blueberry,Almarai,Yogurts,C,14.67,1,Authentic Greek Yoghurt,Dodoni,A,0.0,1.0,3.7
+Greek Style Yoghurt Blueberry,Almarai,Yogurts,C,14.67,2,Greek Yogurt,بلدي,A,0.0,1.0,3.7
+Greek Style Yoghurt Blueberry,Almarai,Yogurts,C,14.67,3,FAGE Total 0%,Fage,A,3.0,1.0,2.9
+Almarai greek style yogurt mango,Almarai,Yogurts,C,14.67,1,Fresh Laban,Mazoon,A,0.0,0.3,3.7
+Almarai greek style yogurt mango,Almarai,Yogurts,C,14.67,2,Arla protein strawberry,Arla Foods,A,3.3,0.3,2.8
+Almarai greek style yogurt mango,Almarai,Yogurts,C,14.67,3,زبادي يو برو توت,Yopro,A,3.33,0.3,2.8
+Strawberry Greek Yoghurt,Alamarai,Yogurts,C,14.67,1,Authentic Greek Yoghurt,Dodoni,A,0.0,0.33,3.7
+Strawberry Greek Yoghurt,Alamarai,Yogurts,C,14.67,2,Greek Yogurt,بلدي,A,0.0,0.33,3.7
+Strawberry Greek Yoghurt,Alamarai,Yogurts,C,14.67,3,FAGE Total 0%,Fage,A,3.0,0.33,2.9
+زبادي يوناني قليل الدسم,Nada,Yogurts,C,14.0,1,Authentic Greek Yoghurt,Dodoni,A,0.0,1.0,3.5
+زبادي يوناني قليل الدسم,Nada,Yogurts,C,14.0,2,Greek Yogurt,بلدي,A,0.0,1.0,3.5
+زبادي يوناني قليل الدسم,Nada,Yogurts,C,14.0,3,FAGE Total 0%,Fage,A,3.0,1.0,2.8
+Yogurt greco alla pesca,Olympus,Yogurts,B,13.9,1,LOW FAT GREEK STYLE YOGHURT,Nada,A,5.0,1.0,2.2
+Yogurt greco alla pesca,Olympus,Yogurts,B,13.9,2,NADA GREEK YOGHURT PLAIN LOWFAT 160GM,Nada,A,5.0,1.0,2.2
+Yogurt greco alla pesca,Olympus,Yogurts,B,13.9,3,ZERO FAT GREEK STYLE YOGHURT,Nada,A,5.0,1.0,2.2
+Greek Yoghurt Blueberry,Nadec,Yogurts,C,13.6,1,زبادي المراعي,Almarai,B,3.63,0.3,2.5
+Greek Yoghurt Blueberry,Nadec,Yogurts,C,13.6,2,اكتيفيا لبن كفير صغير,Activia,B,4.4,0.3,2.3
+Greek Yoghurt Blueberry,Nadec,Yogurts,C,13.6,3,Yoghurt,Unknown,B,5.4,0.3,2.0
+Greek Style Drinking Yoghurt – Mixed Berries,Dandy,Yogurts,D,13.2,1,Actimel activate,Actimel,B,3.9,1.0,2.3
+Greek Style Drinking Yoghurt – Mixed Berries,Dandy,Yogurts,D,13.2,2,اكتيفيا لبن قليل الدسم,Activia,B,0.0,0.86,3.3
+Greek Style Drinking Yoghurt – Mixed Berries,Dandy,Yogurts,D,13.2,3,Laban up,Abu Dhabi,B,0.0,0.86,3.3
+NADA PTN GREEK YOGHURT PASSNFRUIT 330ML,Nada,Yogurts,E,13.0,1,Laban,Mazoon,B,4.4,0.5,2.2
+NADA PTN GREEK YOGHURT PASSNFRUIT 330ML,Nada,Yogurts,E,13.0,2,baladna laban,Baladna,B,4.5,0.5,2.1
+NADA PTN GREEK YOGHURT PASSNFRUIT 330ML,Nada,Yogurts,E,13.0,3,الصافي يوبرو فانيلا,Yopro,B,5.0,0.5,2.0
+Greek Drinking Yoghurt passion fruit with chia seeds with mixed fruit,Nada,Yogurts,E,13.0,1,Actimel activate,Actimel,B,3.9,0.86,2.3
+Greek Drinking Yoghurt passion fruit with chia seeds with mixed fruit,Nada,Yogurts,E,13.0,2,اكتيفيا لبن قليل الدسم,Activia,B,0.0,0.75,3.2
+Greek Drinking Yoghurt passion fruit with chia seeds with mixed fruit,Nada,Yogurts,E,13.0,3,Laban up,Abu Dhabi,B,0.0,0.75,3.2
+Blueberry Yogurt,Supervalu,Yogurts,C,13.0,1,زبادي المراعي,Almarai,B,3.63,0.3,2.3
+Blueberry Yogurt,Supervalu,Yogurts,C,13.0,2,اكتيفيا لبن كفير صغير,Activia,B,4.4,0.3,2.2
+Blueberry Yogurt,Supervalu,Yogurts,C,13.0,3,Yoghurt,Unknown,B,5.4,0.3,1.9
+Elle & vire desserts lactes fruits peche,Elle & Vire,Yogurts,E,12.8,1,Laban,Mazoon,B,4.4,0.56,2.1
+Elle & vire desserts lactes fruits peche,Elle & Vire,Yogurts,E,12.8,2,baladna laban,Baladna,B,4.5,0.56,2.1
+Elle & vire desserts lactes fruits peche,Elle & Vire,Yogurts,E,12.8,3,الصافي يوبرو فانيلا,Yopro,B,5.0,0.56,2.0
+drinking greek yogurt,Nada,Yogurts,E,12.7,1,Laban,Mazoon,B,4.4,0.67,2.1
+drinking greek yogurt,Nada,Yogurts,E,12.7,2,baladna laban,Baladna,B,4.5,0.67,2.0
+drinking greek yogurt,Nada,Yogurts,E,12.7,3,الصافي يوبرو فانيلا,Yopro,B,5.0,0.67,1.9
+Laban up - sweetened laban drink,Safa,Yogurts,E,12.7,1,Actimel activate,Actimel,B,3.9,1.0,2.2
+Laban up - sweetened laban drink,Safa,Yogurts,E,12.7,2,اكتيفيا لبن قليل الدسم,Activia,B,0.0,0.86,3.2
+Laban up - sweetened laban drink,Safa,Yogurts,E,12.7,3,Laban up,Abu Dhabi,B,0.0,0.86,3.2
+ندى زبادي يوناني عسل,By Nada,Yogurts,C,12.5,1,زبادي المراعي,Almarai,B,3.63,0.3,2.2
+ندى زبادي يوناني عسل,By Nada,Yogurts,C,12.5,2,اكتيفيا لبن كفير صغير,Activia,B,4.4,0.3,2.0
+ندى زبادي يوناني عسل,By Nada,Yogurts,C,12.5,3,Yoghurt,Unknown,B,5.4,0.3,1.8
+Rachel's Organic Greek style Rhubarb,Rachel's,Yogurts,C,12.2,1,LOW FAT GREEK STYLE YOGHURT,Nada,A,5.0,0.25,1.8
+Rachel's Organic Greek style Rhubarb,Rachel's,Yogurts,C,12.2,2,NADA GREEK YOGHURT PLAIN LOWFAT 160GM,Nada,A,5.0,0.25,1.8
+Rachel's Organic Greek style Rhubarb,Rachel's,Yogurts,C,12.2,3,ZERO FAT GREEK STYLE YOGHURT,Nada,A,5.0,0.25,1.8
+المراعي لبن,Almarai,Yogurts,E,12.0,1,Actimel activate,Actimel,B,3.9,1.0,2.0
+المراعي لبن,Almarai,Yogurts,E,12.0,2,اكتيفيا لبن قليل الدسم,Activia,B,0.0,0.86,3.0
+المراعي لبن,Almarai,Yogurts,E,12.0,3,Laban up,Abu Dhabi,B,0.0,0.86,3.0
+NADA GRK DRNKNG YOG STRWBRRY /CRL 330ML,Nada,Yogurts,E,11.9,1,Balade farms kefir,Unknown,B,4.0,0.67,2.0
+NADA GRK DRNKNG YOG STRWBRRY /CRL 330ML,Nada,Yogurts,E,11.9,2,Laban,Mazoon,B,4.4,0.62,1.9
+NADA GRK DRNKNG YOG STRWBRRY /CRL 330ML,Nada,Yogurts,E,11.9,3,baladna laban,Baladna,B,4.5,0.62,1.8
+اكتيفيا زبادي بالاياف عسل,Activia,Yogurts,C,11.0,1,زبادي المراعي,Almarai,B,3.63,0.3,1.8
+اكتيفيا زبادي بالاياف عسل,Activia,Yogurts,C,11.0,2,اكتيفيا لبن كفير صغير,Activia,B,4.4,0.3,1.6
+اكتيفيا زبادي بالاياف عسل,Activia,Yogurts,C,11.0,3,Yoghurt,Unknown,B,5.4,0.3,1.4
+Activia Strawberry Stirred Yoghurt,Activia,Yogurts,C,10.7,1,زبادي المراعي,Almarai,B,3.63,0.3,1.8
+Activia Strawberry Stirred Yoghurt,Activia,Yogurts,C,10.7,2,اكتيفيا لبن كفير صغير,Activia,B,4.4,0.3,1.6
+Activia Strawberry Stirred Yoghurt,Activia,Yogurts,C,10.7,3,Yoghurt,Unknown,B,5.4,0.3,1.3
+Lemon pie Greek yogurt,Danone,Yogurts,C,10.67,1,LOW FAT GREEK STYLE YOGHURT,Nada,A,5.0,1.0,1.4
+Lemon pie Greek yogurt,Danone,Yogurts,C,10.67,2,NADA GREEK YOGHURT PLAIN LOWFAT 160GM,Nada,A,5.0,1.0,1.4
+Lemon pie Greek yogurt,Danone,Yogurts,C,10.67,3,ZERO FAT GREEK STYLE YOGHURT,Nada,A,5.0,1.0,1.4
+Fresh Yoghurt,Almarai,Yogurts,C,10.5,1,زبادي ندى,Unknown,B,5.5,0.3,1.2
+Fresh Yoghurt,Almarai,Yogurts,C,10.5,2,Fresh Yogurt Full Fat,Mazoon,B,5.7,0.3,1.2
+Fresh Yoghurt,Almarai,Yogurts,C,10.5,3,زبدادي طازج كامل الدسم,صفا,B,5.9,0.3,1.2
+Drinking Greek Yoghurt Blackberry & Raspberry with Mixed Fruits,Nada,Yogurts,E,10.0,1,Laban,Mazoon,B,4.4,0.5,1.4
+Drinking Greek Yoghurt Blackberry & Raspberry with Mixed Fruits,Nada,Yogurts,E,10.0,2,baladna laban,Baladna,B,4.5,0.5,1.4
+Drinking Greek Yoghurt Blackberry & Raspberry with Mixed Fruits,Nada,Yogurts,E,10.0,3,الصافي يوبرو فانيلا,Yopro,B,5.0,0.5,1.2
+Iögo flavoured pureed yogurt,Iögo,Yogurts,C,9.0,1,زبادي ندى,Unknown,B,5.5,0.3,0.9
+Iögo flavoured pureed yogurt,Iögo,Yogurts,C,9.0,2,Fresh Yogurt Full Fat,Mazoon,B,5.7,0.3,0.8
+Iögo flavoured pureed yogurt,Iögo,Yogurts,C,9.0,3,Fresh yoghurt,Mazoon,B,5.7,0.3,0.8
+Full Fat Greek Style Yoghurt,Almarai,Yogurts,C,8.7,1,LOW FAT GREEK STYLE YOGHURT,Nada,A,5.0,0.33,0.9
+Full Fat Greek Style Yoghurt,Almarai,Yogurts,C,8.7,2,NADA GREEK YOGHURT PLAIN LOWFAT 160GM,Nada,A,5.0,0.33,0.9
+Full Fat Greek Style Yoghurt,Almarai,Yogurts,C,8.7,3,ZERO FAT GREEK STYLE YOGHURT,Nada,A,5.0,0.33,0.9
+Greek Style Natural,Rachel's,Yogurts,B,8.0,1,LOW FAT GREEK STYLE YOGHURT,Nada,A,5.0,1.0,0.8
+Greek Style Natural,Rachel's,Yogurts,B,8.0,2,NADA GREEK YOGHURT PLAIN LOWFAT 160GM,Nada,A,5.0,1.0,0.8
+Greek Style Natural,Rachel's,Yogurts,B,8.0,3,ZERO FAT GREEK STYLE YOGHURT,Nada,A,5.0,1.0,0.8
+Plain Protein Yoghurt Low Fat,Almarai,Yogurts,B,7.8,1,Total Fat Free Greek Recipe Strained Yoghurt,Fage,A,3.0,0.5,1.2
+kefir,Unknown,Yogurts,C,7.7,1,لبن اكتيفيا كفير,Activia,B,4.4,0.83,0.8
+kefir,Unknown,Yogurts,C,7.7,2,الصافي يوبرو فانيلا,Yopro,B,5.0,0.67,0.7
+kefir,Unknown,Yogurts,C,7.7,3,Balade farms kefir,Unknown,B,4.0,0.5,0.9
+نادك زبادي قليل الدسم,Unknown,Yogurts,B,6.9,1,Total Fat Free Greek Recipe Strained Yoghurt,Fage,A,3.0,1.0,1.0
+greek yoghurt drink,Al Aïn Farms,Yogurts,C,6.5,1,لبن اكتيفيا كفير,Activia,B,4.4,0.5,0.5
+greek yoghurt drink,Al Aïn Farms,Yogurts,C,6.5,2,Balade farms kefir,Unknown,B,4.0,0.45,0.6
+greek yoghurt drink,Al Aïn Farms,Yogurts,C,6.5,3,ayran,Baladé Farms,B,4.5,0.45,0.5
+نادك زبادي,Unknown,Yogurts,C,6.2,1,Mazoon UP,Mazoon,B,0.0,0.67,1.6
+Fresh Full Fat Youghurt,Hayatna,Yogurts,B,5.4,1,Fresh full fat yoghurt,Unknown,A,0.0,1.0,1.4
+المراعي لبن,Almarai,Yogurts,C,4.64,1,Mazoon UP,Mazoon,B,0.0,0.29,1.2
+لبن المراعي,Almarai,Yogurts,C,4.64,1,Mazoon UP,Mazoon,B,0.0,0.29,1.2
+لبن المراعي,Almarai,Yogurts,C,4.64,2,Fresh full fat yoghurt,Unknown,A,0.0,0.29,1.2
+لبن المراعي,Almarai,Yogurts,C,4.61,1,Mazoon UP,Mazoon,B,0.0,0.29,1.2
+Yaourt brassé nature,Monoprix,Yogurts,B,4.6,1,Fresh full fat yoghurt,Unknown,A,0.0,0.5,1.2
+١puck thick cream,بوك,Yogurts,E,3.43,1,Mazoon UP,Mazoon,B,0.0,0.67,0.9
